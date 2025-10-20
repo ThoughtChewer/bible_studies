@@ -9,7 +9,7 @@ title: Bible Study Series
 - [[Bible Study 2 - Creation]]
 - [[Bible Study 3 - Adam and Eve]]
 - [[Bible Study 4 - Cain and Abel]]
-- [[Bible Studies 5 - Temporary - Line of Seth]]
+- [[Bible Study 5 - Temporary - Line of Seth]]
 
 ## Appendix
 - [[Bible Study Appendix A - Jewish Content in the Bible]]
