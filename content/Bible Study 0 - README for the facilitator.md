@@ -21,7 +21,7 @@
 	- Gaining insights into the differences in culture and thinking between the learner and the authors of the bible.
 	- Learning how to understand Jesus in his culture.
 ## Notes to the facilitator:
-- If you have not engaged in significant Jewish content before this study I encourage you to read [[Bible Study Appendix A - Jewish Content in the Bible]]. Its a short blurb that will help you as you begin to engage with the culture the bible was written by and to.
+- If you have not engaged in significant Jewish content before this study I encourage you to read [[Bible Study Appendix A - Jewish Content in the Bible]]. Its a short blurb that will help you as you begin to engage with the culture the bible was written by and to. This might be something you want to share with the learner during [[Bible Study 1 - Introduction]]
 - If you do not understand how bible translations are created I encourage you to read [[Bible Study Appendix B - Bible Translations]]. Its a short blurb on the subject which will be helpful background information as you start to engage with Hebrew words in the study.
 	- I have decided to link everything with #todo ____ for xy and z reasons.
 - You don't have to have all the answers.
