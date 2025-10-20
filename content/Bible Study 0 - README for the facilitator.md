@@ -66,3 +66,6 @@
 	- The series spends a lot of time in Genesis 1-11 because it sets the foundation that everything else is built off of.
 	- From there, the pace gradually increases till you hit Jesus. Then it slows down again.
 	- Reading through Acts is for follow up studies with the learner.
+
+### Other Notes
+- If you come across a 404 link not found, it is because I haven't uploaded the related page to the website. The bible studies come out of note taking program that I use to link things together, and sometimes I don't include notes onto the website.
