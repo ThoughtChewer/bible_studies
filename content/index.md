@@ -7,6 +7,8 @@ title: Bible Study Series
 ## Core Studies
 - [[Bible Study 1 - Introduction]]
 - [[Bible Study 2 - Creation]]
+- [[Bible Study 3 - Adam and Eve]]
+- [[Bible Study 4 - Cain and Abel]]
 
 ## Appendix
 - [[Bible Study Appendix A - Jewish Content in the Bible]]
