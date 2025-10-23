@@ -1,6 +1,7 @@
 ## This series is currently in development
 - Considering the amount I still have to learn, it will likely be for some time.
 - Because the bible and therefore the study series has a high density of interlinking parts, as I learn new things sweeping changes may occur across the series.
+	- I attempt to link source material and helpful sources, but I don't know where everything I know came from. My journey has taken a lifetime of learning from a lot of sources.
 - Feedback for this is appreciated.
 	- Feedback can be sent to: #todo __My Contact Info__
 	- If you have feedback please include 3 things:

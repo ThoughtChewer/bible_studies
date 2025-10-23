@@ -3,5 +3,3 @@
 
 ## Read through []()
 
-
-#### Footnotes

@@ -45,4 +45,3 @@
 
 Setup time to hangout with them outside of studying the bible. People need to experience God not just learn about him, and the main way that people do that is through his community, aka you spending time with this person (church services don't count as time with the person).
 
-#### Footnotes

@@ -39,6 +39,3 @@
 		- concludes in 9.28-29 with sections in: 6.9-10, 7.6.
 		- This tells you that the flood story is also part of the genealogy, and will provide more insights.
 - This leaves the reader expecting that Noah is the guy we've been waiting for. He is going to set things right and get us back into the garden.
-
-
-#### Footnotes
