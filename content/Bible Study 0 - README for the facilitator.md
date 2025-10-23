@@ -70,3 +70,4 @@
 
 ### Other Notes
 - If you come across a 404 link not found, it is because I haven't uploaded the related page to the website. The bible studies come out of note taking program that I use to link things together, and sometimes I don't include notes onto the website.
+- The links to list items just link to the page they are on. Flaw with the tools I'm currently using.

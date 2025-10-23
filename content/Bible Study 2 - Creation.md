@@ -1,7 +1,7 @@
 ## Goal:
 - 
 
-## Read through [Genesis 1.1-2.3](https://www.biblegateway.com/passage/?search=Genesis%201-2%3A3&version=NASB)[^3]
+## Read through [Genesis 1.1-2.3](https://www.biblegateway.com/passage/?search=Genesis%201-2%3A3&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
@@ -51,10 +51,10 @@
 	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail they add is very intentional. ^hebrew-minimal
 		- For example the two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
-	- The creation story being poetry is probably not intuitive.
+	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive.
 	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology | cosmology]].
 - Temples:
-	- The creation story is full of temple language.
+	- [[Genesis 1.1-2.3]] is full of temple language.
 		- Cosmic creation.
 		- Miniature images of the God.
 		- Gardens.
@@ -62,8 +62,8 @@
 		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology | 3 cosmology zones]].
 	- This is implying that all of creation is God's temple.
 		- Though it will become clear in the next story that heaven and earth are not fully connected yet.
-- The creation story represents an ideal. ^creation-idea
-	- In the same way that 1.1 is a summary statement that book ends the story, the creation story is a summary that book ends the bible.
+- [[Genesis 1.1-2.3]] represents an ideal. ^creation-idea
+	- In the same way that 1.1 is a summary statement that book ends the story, the [[Genesis 1.1-2.3]] is a summary that book ends the bible.
 	- Day 7 never ends because God wants his ideal world to go on forever
 		- This being the ideal becomes clear when you contrast day 7 never ending with the next story.
 		- In Hebrew the number 7 represents completeness.
@@ -90,21 +90,19 @@
 		- God created the "heavenly hosts" to rule the sky as a parallel to humanity ruling the earth.
 		- But we appear to be special and more central to the story for some reason.
 
-#### For the learner:
+#### Practical things to talk through with the learner:
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
 	- God knows what is good, and wants to give it to you.
 	- God thinks that you are very good.
+	- When is it hard to trust?
 - God has created you to be his representative and has given you the power to choose what you will do with his creation.
 	- This also means that God has created everyone with the same potential and capacity for goodness that you have. So we must treat others as such.
 		- Even people we hate or think are evil.
 - God is the source of all life.
-
-
+	- What would it look like for you, the tree, to be planted by God, the river, from [[Psalm 1]] practically?
 
 [^1]: [The bible Project - Adam to Noah](https://bibleproject.com/classroom/adam-to-noah)
 
 [^2]: [Walton, John H. (2006). Ancient Near Eastern Thought and the Old Testament. Baker Academic. 180-181.](https://www.amazon.com/Ancient-Near-Eastern-Thought-Testament/dp/1540960218/ref=sr_1_1?crid=JGLJ86PMJ7E&dib=eyJ2IjoiMSJ9.OVLl2mCXEzVtStapEKBHmdMpQJXV8CscqjC7CyTyc__5TpByFVG53se4OKCej9lbPY8HYqnB6UA2u9-N3Z6yyWny-Lmd6Z8I2frvxCEpLwFy48sbDys5PHR2uBiySfOissFK4U7Zunr2_e7Ko50ZJM4P5gnilgSA2HX92dL2wfgp1Ef1GjTk3SZyIcVkZ6zdf8nHBy0hlHo3ej0e-th63O5aHHxfPL--zx0ZqCIP0fc.FZ1xWgl9U8QP8DQDp_x0AGUN74Z3Tih8ptCjmN66ZFM&dib_tag=se&keywords=ancient+near+eastern+thought+and+the+old+testament&qid=1761236889&sprefix=ancient+near+eastern+thought+and+%2Caps%2C130&sr=8-1)
-
-[^3]: [[Genesis 1.1-2.3]]
 
 [^4]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 88.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)

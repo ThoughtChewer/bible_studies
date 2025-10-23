@@ -39,6 +39,7 @@
 - Introduce them to God.
 - God knows and cares deeply about you, but he also wants to be known by you and for you to come to understand just how much he loves you.
 ## Read though [Psalm 1](https://www.biblegateway.com/passage/?search=psalm%201&version=NASB)^[[Psalm 1]]
+- "The law" is basically referring to the bible. An argument can be made it is referring to the Torah, or first 5 books of the bible.
 - Much of the bible is meditation literature. You have to read and think about it often to wrestle though it. If you do this it will change your life.
 - Meditate is different than what our culture thinks about it. Here, it refers to quietly reading the bible out loud for the purpose of thinking about it.
 - The bible is designed so that you could read and think about it everyday and you won't run out of things to think about during your lifetime.
