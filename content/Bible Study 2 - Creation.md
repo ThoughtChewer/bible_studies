@@ -45,7 +45,7 @@
 		- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
 	- Day 7
 		- Day 7 never ends. 
-			- Important for note in [[#^3ea904 | next section]].
+			- Important for note in [[Bible Study 2 - Creation #^3ea904 | next section]].
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
 	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail they add is very intentional. ^530526
