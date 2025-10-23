@@ -19,7 +19,7 @@ I recognize that reading that last paragraph might be pretty jarring for some. I
 >
 > Imagistic thinking presents difficulties [for modern people]. Israelites found no problems thinking about Ezekiel’s vision of Egypt as a cosmic tree (Ezek. 31). This does not warrant labeling the literature mythology, nor does it concern questions of reality or truth. Some might consider the trees, the garden and the snake to be examples of imagistic thinking without thereby denying reality and truth to the account. The author understands trees in a way that does not simply indicate a botanical species of flora with remarkable chemical properties. When we put these elements in their ancient Near Eastern context and recognize the Israelite capacity, and even propensity, to think in imagistic terms, we may find that we gain a deeper understanding of important theological realities.
 > 
-> Some scholars today believe that Israel was in the habit of borrowing other people’s myths and transforming them into a mythology of their own. I do not share that perspective. What is sometimes perceived as a shared mythology is more often a shared propensity to think imagistically about the same issues using a shared symbolic vocabulary."
+> Some scholars today believe that Israel was in the habit of borrowing other people’s myths and transforming them into a mythology of their own. I do not share that perspective. What is sometimes perceived as a shared mythology is more often a shared propensity to think imagistically about the same issues using a shared symbolic vocabulary.
 
 ![[Hubble Deep Field from Hubble Telescope.png]]
 ![[The Starry Night by Vincent van Gogh.png]]
