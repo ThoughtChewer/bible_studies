@@ -30,36 +30,36 @@
 		- Day 2 is the only day that does not get a good. Curious.
 		- Humans are the only thing to get a very good.
 	- Day 7 is separated from the block of creation.
-- Talk through the parts.
-	- 1.2 
-		- "Formless and void"
-			- Deep waters, darkness, formless, and void are all symbols of chaotic and unordered environments. 
-				- Cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
-	- 1.6-9
-		- There are 3 zones in the Hebrew cosmology ^4f7b44
-			- Waters below - seas - chaotic (nothing)
-			- Dry land - earth - our space
-			- The expanse - heaven - God's space
-			- Note: This structure is all over the bible. Not just a Genesis 1 thing. It will be helpful to remember for understanding future imagery.
-	- "God saw that it was good"
-		- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
-	- Day 7
-		- Day 7 never ends. 
-			- Important for note in [[Bible Study 2 - Creation #^3ea904 | next section]].
+### Talk through the parts.
+- 1.2 
+	- "Formless and void"
+		- Deep waters, darkness, formless, and void are all symbols of chaotic and unordered environments. 
+			- Cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
+- 1.6-9
+	- There are 3 zones in the Hebrew cosmology ^4f7b44
+		- Waters below - seas - chaotic (nothing)
+		- Dry land - earth - our space
+		- The expanse - heaven - God's space
+		- Note: This structure is all over the bible. Not just a Genesis 1 thing. It will be helpful to remember for understanding future imagery.
+- "God saw that it was good"
+	- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
+- Day 7
+	- Day 7 never ends. 
+		- Important for note in [[Bible Study 2 - Creation#^3ea904 | next section]].
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
 	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail they add is very intentional. ^530526
 		- For example the two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
 	- The creation story being poetry is probably not intuitive.
-	- Having a different [[#^4f7b44 | cosmology]].
+	- Having a different [[Bible Study 2 - Creation#^4f7b44 | cosmology]].
 - Temples:
 	- The creation story is full of temple language.
 		- Cosmic creation.
 		- Miniature images of the God.
 		- Gardens.
 	- Temples represent where Heaven and Earth meet.
-		- Reference the [[#^4f7b44 | 3 cosmology zones]] ^3dd4fd
+		- Reference the [[Bible Study 2 - Creation#^4f7b44 | 3 cosmology zones]].
 	- This is implying that all of creation is God's temple.
 		- Though it will become clear in the next story that heaven and earth are not fully connected yet.
 - The creation story represents an ideal. ^3ea904
