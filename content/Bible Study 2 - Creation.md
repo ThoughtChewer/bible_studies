@@ -65,14 +65,14 @@
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
 	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive in English.
 		- e.g. In Hebrew, 1:1 has 7 words, 1:2 has 14 words, etc...
-	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology | cosmology]].
+	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology|cosmology]].
 - Temples:
 	- [[Genesis 1.1-2.3]] is full of temple language.
 		- Cosmic creation.
 		- Miniature images of the God.
 		- Gardens.
 	- Temples represent where Heaven and Earth meet.
-		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology | 3 cosmology zones]].
+		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology|3 cosmology zones]].
 	- This is implying that all of creation is God's temple.
 		- Though it will become clear in the next story that heaven and earth are not fully connected yet.
 - [[Genesis 1.1-2.3]] represents an ideal. ^creation-idea
