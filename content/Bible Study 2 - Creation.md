@@ -86,7 +86,7 @@
 		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology|3 cosmology zones]].
 	- This is implying that all of creation is God's temple.
 		- Though it will become clear in the next story that heaven and earth are not fully connected yet.
-- [[Genesis 1.1-2.3]] represents an ideal. ^creation-idea
+- [[Genesis 1.1-2.3]] represents an ideal. ^creation-ideal
 	- In the same way that 1.1 is a summary statement that book ends the story, the [[Genesis 1.1-2.3]] is a summary that book ends the bible.
 	- Day 7 never ends because God wants his ideal world to go on forever
 		- This being the ideal becomes clear when you contrast day 7 never ending with the next story.
