@@ -1,4 +1,4 @@
-## Goal:
+## Goals:
 - Cover some things you missed by not going through the new version of the studies
 - Setup the story of Noah
 

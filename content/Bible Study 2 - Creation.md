@@ -1,5 +1,6 @@
-## Goal:
-- 
+## Goals:
+- Help the learner begin to learn how to wrestle through ancient Hebraic texts.
+- Invite the learner to reshape their world view to align with the bible.
 
 ## Read through [Genesis 1.1-2.3](https://www.biblegateway.com/passage/?search=Genesis%201-2%3A3&version=NASB)
 - Question: Big picture, what is happening in this story?
@@ -18,13 +19,14 @@
 	- Reference image for after manually digging through the text. [[Genesis 1 Structure.png]][^1]
 	- 1.1 parallels 2.1 to form bookends to the poem with summary statements.
 	- 1.2 Starting place.
-		- Formless and void.
+		- Darkness, formless, and void.
 	- 1.3-1.31 
 		- Days 1-3 creates spaces
 		- Days 4-6 creates stuff in spaces
 		- Day 1-3 parallel 4-6.
 			- 1-3 makes the space that 4-6 fills.
 		- Days 2 and 5 can be split in half to parallel things above and things below.
+			- Including beings God delegated rule of that zone to.
 		- Days 3 and 6 have an extra creation event that involves seeds.
 	- "God saw that it was good" 7 times in 6 days
 		- Day 2 is the only day that does not get a good. Curious.
@@ -32,8 +34,9 @@
 	- Day 7 is separated from the block of creation.
 ### Talk through the parts.
 - 1.2 
-	- "Formless and void"
-		- Deep waters, darkness, formless, and void are all symbols of chaotic and unordered environments. 
+	- "Formless and void, and darkness"
+		- Deep waters, sea monster (ref 1.21), darkness, formless, and void are all symbols of chaotic and unordered environments. 
+			- “Genesis 1:2 depicts the pre-creation state as an unholy trinity: wilderness, darkness, and cosmic chaos waters. However, within the Bible itself, these chaos waters can be depicted metaphorically as the chaos dragon, and in this way, the symbolic meaning of the waters remains a viable idea today. In the Bible, water and sea beasts function as evocative symbols of overwhelming and powerful chaos-inducing forces. They remind us that God’s creation is good but not tame. There are forces beyond human control that should be treated with respect, because when they exceed their bounds they are destructive. At a metaphorical level dragons and wild oceans remain helpful symbols of chaos that can invade communal and individual human worlds, threatening order and life itself. Within the Bible the symbol is used to describe political oppression and the collapse of order in the lives of communities and people. At a metaphysical level ... Genesis 1 depicts a creation that, left to itself, would collapse back into chaos. The world does not sustain or order itself. It is God who ordered and continues to order reality … But the tendency towards disorder is inherent within the world … The sea represents non-being, literally ‘no-thing.’"[^5]^robin-quote
 			- Cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
 - 1.6-9
 	- There are 3 zones in the Hebrew cosmology ^hebrew-cosmology
@@ -48,10 +51,12 @@
 		- Important for note in [[Bible Study 2 - Creation#^creation-idea | next section]].
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
+	- There is all kinds of word play happening that is completely missed in English.
 	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail they add is very intentional. ^hebrew-minimal
 		- For example the two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
-	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive.
+	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive in English.
+		- e.g. In Hebrew, 1:1 has 7 words, 1:2 has 14 words, etc...
 	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology | cosmology]].
 - Temples:
 	- [[Genesis 1.1-2.3]] is full of temple language.
@@ -69,10 +74,11 @@
 		- In Hebrew the number 7 represents completeness.
 - The Jewish day begins at night.
 	- "And there was evening and there was morning,"
-	- The first thing a Jew does is rest each day.
+	- The first thing a Jew does each day is rest.
+- God created the world, but it was not a one and done. As [[Bible Study 2 - Creation#^robin-quote| Robin said]], the world tends to disorder, but God sustains it as an active act of creation.
 - This creation story stands in contrast to other [[Near Eastern Creation Stories]]. There are similarities because people of the same region share common cultural aspects, like temples being where heaven and earth meet or creation starting with chaotic waters. There are also purposeful contrasts that highlight the nature of God and purpose of humanity that differs from other accounts.
 
-### Conclusions: 
+## Conclusions: 
 - Question: What does this tell us about God?
 	- God created everything and therefore is the source of all life.
 	- God likes order and wants his world to be full.
@@ -90,7 +96,7 @@
 		- God created the "heavenly hosts" to rule the sky as a parallel to humanity ruling the earth.
 		- But we appear to be special and more central to the story for some reason.
 
-#### Practical things to talk through with the learner:
+### Practical things to talk through with the learner:
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
 	- God knows what is good, and wants to give it to you.
 	- God thinks that you are very good.
@@ -101,8 +107,10 @@
 - God is the source of all life.
 	- What would it look like for you, the tree, to be planted by God, the river, from [[Psalm 1]] practically?
 
-[^1]: [The bible Project - Adam to Noah](https://bibleproject.com/classroom/adam-to-noah)
+[^1]: [The bible Project - Heaven and Earth](https://bibleproject.com/classroom/heaven-and-earth)
 
 [^2]: [Walton, John H. (2006). Ancient Near Eastern Thought and the Old Testament. Baker Academic. 180-181.](https://www.amazon.com/Ancient-Near-Eastern-Thought-Testament/dp/1540960218/ref=sr_1_1?crid=JGLJ86PMJ7E&dib=eyJ2IjoiMSJ9.OVLl2mCXEzVtStapEKBHmdMpQJXV8CscqjC7CyTyc__5TpByFVG53se4OKCej9lbPY8HYqnB6UA2u9-N3Z6yyWny-Lmd6Z8I2frvxCEpLwFy48sbDys5PHR2uBiySfOissFK4U7Zunr2_e7Ko50ZJM4P5gnilgSA2HX92dL2wfgp1Ef1GjTk3SZyIcVkZ6zdf8nHBy0hlHo3ej0e-th63O5aHHxfPL--zx0ZqCIP0fc.FZ1xWgl9U8QP8DQDp_x0AGUN74Z3Tih8ptCjmN66ZFM&dib_tag=se&keywords=ancient+near+eastern+thought+and+the+old+testament&qid=1761236889&sprefix=ancient+near+eastern+thought+and+%2Caps%2C130&sr=8-1)
 
 [^4]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 88.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
+
+[^5]: [Parry, Robin. (2014). The Biblical Cosmos: A Pilgrim's Guide to the Weird and Wonderful World of the Bible.. Wipf and Stock Publishers. 202-203.](https://www.amazon.com/Biblical-Cosmos-Pilgrims-Guide-Wonderful/dp/1625648103)

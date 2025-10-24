@@ -1,4 +1,4 @@
-## Goal: Get to know each other and get on the same page for the goal of your time together
+## Goals: Get to know each other and get on the same page for the goal of your time together
 - You want to know what their thoughts are on life, what their history and relationships look like, and what they hope to get out of all of this. It's important to know where this person is coming from so that you can help them get to where you want to go.
 - Set expectations for what studying the bible is going to be like.
 
