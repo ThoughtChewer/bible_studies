@@ -53,7 +53,7 @@
 		- On days 4-6 when God fills the spaces with beings he deals with the void problem.
 			- While Humanity might play the central role, we are introduced to the "Heavenly Hosts" as characters who will have some kind of story that runs in parallel to ours.
 - Seed parallel and fruit
-	- We aren't given much to go on with this, but the author has included them.
+	- We aren't given much to go on with this outside of God's command to "be fruitful and multiply", but the author has included them.
 		- There is a circular nature to references in the bible. Stories that follow creation will reference it to enhance the context of the future story. Stories will also reference it for similar things that will enhance your understand of what is happening in this story.
 - 1.27 poem
 	- The text might be physically structured differently based on your translation.
