@@ -26,26 +26,34 @@
 		- Day 1-3 parallel 4-6.
 			- 1-3 makes the space that 4-6 fills.
 		- Days 2 and 5 can be split in half to parallel things above and things below.
-			- Including beings God delegated rule of that zone to.
 		- Days 3 and 6 have an extra creation event that involves seeds.
+	- 1.27
+		- Interesting nested poem in the story.
 	- "God saw that it was good" 7 times in 6 days
 		- Day 2 is the only day that does not get a good. Curious.
 		- Humans are the only thing to get a very good.
 	- Day 7 is separated from the block of creation.
 ### Talk through the parts.
+- "God saw that it was good"
+	- Humans are the only thing that got a very good. So we seem to play a central role in this story.
+	- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
 - 1.2 
 	- "Formless and void, and darkness"
 		- Deep waters, sea monster (ref 1.21), darkness, formless, and void are all symbols of chaotic and unordered environments. 
 			- “Genesis 1:2 depicts the pre-creation state as an unholy trinity: wilderness, darkness, and cosmic chaos waters. However, within the Bible itself, these chaos waters can be depicted metaphorically as the chaos dragon, and in this way, the symbolic meaning of the waters remains a viable idea today. In the Bible, water and sea beasts function as evocative symbols of overwhelming and powerful chaos-inducing forces. They remind us that God’s creation is good but not tame. There are forces beyond human control that should be treated with respect, because when they exceed their bounds they are destructive. At a metaphorical level dragons and wild oceans remain helpful symbols of chaos that can invade communal and individual human worlds, threatening order and life itself. Within the Bible the symbol is used to describe political oppression and the collapse of order in the lives of communities and people. At a metaphysical level ... Genesis 1 depicts a creation that, left to itself, would collapse back into chaos. The world does not sustain or order itself. It is God who ordered and continues to order reality … But the tendency towards disorder is inherent within the world … The sea represents non-being, literally ‘no-thing.’"[^5]^robin-quote
 			- Cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
-- 1.6-9
-	- There are 3 zones in the Hebrew cosmology ^hebrew-cosmology
-		- Waters below - seas - chaotic (nothing)
-		- Dry land - earth - our space
-		- The expanse - heaven - God's space
-		- Note: This structure is all over the bible. Not just a Genesis 1 thing. It will be helpful to remember for understanding future imagery.
-- "God saw that it was good"
-	- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
+	- Since the story is centered around human flourishing, 1.2 presents 3 problems to that end that God must solve.
+		- On day 1 God deals with the darkness problem.
+		- On days 1-3 when God is creating spaces he deals with the formless problem.
+			- There are 3 zones in the Hebrew cosmology ^hebrew-cosmology
+				- Waters below - seas - chaotic (nothing)
+				- Dry land - earth - our space
+				- The expanse - heaven - God's space
+				- Note: This structure is all over the bible. Not just a Genesis 1 thing. It will be helpful to remember for understanding future imagery.
+		- On days 4-6 when God fills the spaces with beings he deals with the void problem.
+			- While Humanity might play the central role, we are introduced to the "Heavenly Hosts" as characters who will have some kind of story that runs in parallel to ours.
+- Seed parallel and fruit
+	- We aren't given much to go on with this, but the author has included them 
 - Day 7
 	- Day 7 never ends. 
 		- Important for note in [[Bible Study 2 - Creation#^creation-idea | next section]].
@@ -88,13 +96,14 @@
 - Question: What does this tell us about humanity?
 	- We are images of God.
 	- God created us with the intent that we rule the earth.
+	- We are not the only storyline in the bible. 
+		- God created the "heavenly hosts" to rule the sky as a parallel to humanity ruling the earth.
+		- But we appear to be special and more central to the story for some reason.
 - Question: What does this tell us about the relationship of God to humanity?
 	- God thinks that we are "very good".
 	- "God as the one who both knows what is "good" for humankind and is intent on providing the good for them."[^4]
 	- God wants to rule his creation through a partnership with us.
-	- We are not the only storyline in the bible. 
-		- God created the "heavenly hosts" to rule the sky as a parallel to humanity ruling the earth.
-		- But we appear to be special and more central to the story for some reason.
+	
 
 ### Practical things to talk through with the learner:
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
