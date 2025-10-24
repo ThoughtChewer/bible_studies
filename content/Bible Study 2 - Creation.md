@@ -53,7 +53,18 @@
 		- On days 4-6 when God fills the spaces with beings he deals with the void problem.
 			- While Humanity might play the central role, we are introduced to the "Heavenly Hosts" as characters who will have some kind of story that runs in parallel to ours.
 - Seed parallel and fruit
-	- We aren't given much to go on with this, but the author has included them 
+	- We aren't given much to go on with this, but the author has included them.
+		- There is a circular nature to references in the bible. Stories that follow creation will reference it to enhance the context of the future story. Stories will also reference it for similar things that will enhance your understand of what is happening in this story.
+- 1.27 poem
+	- The text might be physically structured differently based on your translation.
+		- Looking at it in one that is formatted a little might be helpful to see the structure [Genesis 1:27 ESV](https://www.biblegateway.com/passage/?search=Genesis%201%3A27&version=ESV)
+	- Structure
+		- Line 1 and 2 are mirrored
+			- Adam/Humanity is created in God's image
+		- Line 3 is a translation of 2
+			- The line is flipped so that when it parallels the third line male and female are in the same slot as God's image.
+	- Meaning
+		- So humanity is created in God's image. Then the poem transition from humanity (singular) to male and female (multiple). So part of God's image is represented in the unity of the multiple and not just in the individual.
 - Day 7
 	- Day 7 never ends. 
 		- Important for note in [[Bible Study 2 - Creation#^creation-idea|next section]].
@@ -102,9 +113,9 @@
 - Question: What does this tell us about the relationship of God to humanity?
 	- God thinks that we are "very good".
 	- "God as the one who both knows what is "good" for humankind and is intent on providing the good for them."[^4]
+	- Part of being an image bearer involves being united with others.
 	- God wants to rule his creation through a partnership with us.
 	
-
 ### Practical things to talk through with the learner:
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
 	- God knows what is good, and wants to give it to you.
