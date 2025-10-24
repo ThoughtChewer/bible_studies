@@ -56,7 +56,7 @@
 	- We aren't given much to go on with this, but the author has included them 
 - Day 7
 	- Day 7 never ends. 
-		- Important for note in [[Bible Study 2 - Creation#^creation-idea | next section]].
+		- Important for note in [[Bible Study 2 - Creation#^creation-idea|next section]].
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
 	- There is all kinds of word play happening that is completely missed in English.
