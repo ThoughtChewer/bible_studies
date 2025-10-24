@@ -66,7 +66,7 @@
 	- Meaning
 		- So humanity is created in God's image. Then the poem transition from humanity (singular) to male and female (multiple). So part of God's image is represented in the unity of the multiple and not just in the individual.
 - Day 7
-	- Day 7 never ends. 
+	- Day 7 has no literary ending. So it continues on forever.
 		- Important for note in [[Bible Study 2 - Creation#^creation-idea|next section]].
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
@@ -75,12 +75,12 @@
 		- For example the two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
 	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive in English.
-		- e.g. In Hebrew, 1:1 has 7 words, 1:2 has 14 words, etc...
+		- e.g. In Hebrew, 1:1 has 7 words, 1:2 has 14 words, the 7th (last) paragraph has 3 lines which each have 7 words in them, repeated words, etc...
 	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology|cosmology]].
 - Temples:
 	- [[Genesis 1.1-2.3]] is full of temple language.
 		- Cosmic creation.
-		- Miniature images of the God.
+		- Miniature images of the God. Basically idols.
 		- Gardens.
 	- Temples represent where Heaven and Earth meet.
 		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology|3 cosmology zones]].
