@@ -1,6 +1,7 @@
 ## Goals:
 - Help the learner begin to learn how to wrestle through ancient Hebraic texts.
 - Invite the learner to reshape their world view to align with the bible.
+- Help the learner start to understand their relationship with God.
 
 ## Read through [Genesis 1.1-2.3](https://www.biblegateway.com/passage/?search=Genesis%201-2%3A3&version=NASB)
 - Question: Big picture, what is happening in this story?
@@ -119,7 +120,7 @@
 ### Practical things to talk through with the learner:
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
 	- God knows what is good, and wants to give it to you.
-	- God thinks that you are very good.
+	- God thinks that you are very good based on being made in his image. Not based on how much you can produce.
 	- When is it hard to trust?
 - God has created you to be his representative and has given you the power to choose what you will do with his creation.
 	- This also means that God has created everyone with the same potential and capacity for goodness that you have. So we must treat others as such.
