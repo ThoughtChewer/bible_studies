@@ -62,7 +62,7 @@
 			- Now that I'm a Christian what does that mean for my life? Lets look at how people figured things out previously.
 	- Supplementary studies
 		- The core studies tries to keep material covered to a minimum while giving the learner the full context for Jesus.
-		- Frequently 
+		- Frequently #todo 
 - Pacing
 	- The series spends a lot of time in Genesis 1-11 because it sets the foundation that everything else is built off of.
 	- From there, the pace gradually increases till you hit Jesus. Then it slows down again.

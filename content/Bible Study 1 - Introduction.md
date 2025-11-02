@@ -35,9 +35,11 @@
 
 ## Read [Acts 17.22-31](https://www.biblegateway.com/passage/?search=Acts%2017%3A22-31&version=ESV)[^3]
 - Give them an overview of what you'd like to do with the studies.
+
 ## Read [Psalm 139](https://www.biblegateway.com/passage/?search=psalm%20139&version=ESV)[^2]
 - Introduce them to God.
 - God knows and cares deeply about you, but he also wants to be known by you and for you to come to understand just how much he loves you.
+
 ## Read though [Psalm 1](https://www.biblegateway.com/passage/?search=psalm%201&version=NASB)[^1]
 - "The law" is basically referring to the bible. An argument can be made it is referring to the Torah, or first 5 books of the bible.
 - Much of the bible is meditation literature. You have to read and think about it often to wrestle though it. If you do this it will change your life.

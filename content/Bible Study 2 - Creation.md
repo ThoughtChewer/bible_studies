@@ -1,4 +1,5 @@
 ## Goals:
+- Read through [[Genesis 1.1-2.3]].
 - Help the learner begin to learn how to wrestle through ancient Hebraic texts.
 - Invite the learner to reshape their world view to align with the bible.
 - Help the learner start to understand their relationship with God.
@@ -92,9 +93,13 @@
 	- Day 7 never ends because God wants his ideal world to go on forever
 		- This being the ideal becomes clear when you contrast day 7 never ending with the next story.
 		- In Hebrew the number 7 represents completeness.
+- The original audience of this passage are the Hebrews coming out of the Exodus at Mt. Sini who had been slaves for hundreds of years.
+	- Their value to society was based upon how many bricks they could make.
+	- They were surrounded by a polytheistic culture where the king was thought of as an actual God.
+	- God had taken them out of Egypt, and now he was beginning the much more challenging task of taking Egypt out of the people.
 - The Jewish day begins at night.
 	- "And there was evening and there was morning,"
-	- The first thing a Jew does each day is rest.
+	- The first thing a Hebrew does each day is rest.
 - God created the world, but it was not a one and done. As [[Bible Study 2 - Creation#^robin-quote| Robin said]], the world tends to disorder, but God sustains it as an active act of creation.
 - This creation story stands in contrast to other [[Near Eastern Creation Stories]]. There are similarities because people of the same region share common cultural aspects, like temples being where heaven and earth meet or creation starting with chaotic waters. There are also purposeful contrasts that highlight the nature of God and purpose of humanity that differs from other accounts.
 
@@ -118,6 +123,14 @@
 	- God wants to rule his creation through a partnership with us.
 	
 ### Practical things to talk through with the learner:
+- The culture we live in and the people we spend time with will shape our view of God, ourselves, and this life.
+	- Identifying things gives the learner language to talk about struggles that are happening. Things like:
+		- American's are highly individualized which will make it hard to understand things like shared group identity or collective responsibility.
+		- Westerners generally think that their way of thinking is superior to other cultures because it is "scientific". This makes it hard to learn to see things from a different cultural perspective.
+			- This is why we have debates about young vs old earth based on Genesis 1, which totally misses the point of Genesis 1.
+		- If they grew up in something similar to a Church of Christ background they will probably have a hard time embracing the spiritual world.
+		- The learner's parents have a huge part in shaping the learner's view of self and their value.
+		- The learner's relationship with their father will heavily influence how they see God.
 - You are being invited to trust this story over other sources for who God is, who you are, and how God feels about you.
 	- God knows what is good, and wants to give it to you.
 	- God thinks that you are very good based on being made in his image. Not based on how much you can produce.
@@ -125,8 +138,7 @@
 - God has created you to be his representative and has given you the power to choose what you will do with his creation.
 	- This also means that God has created everyone with the same potential and capacity for goodness that you have. So we must treat others as such.
 		- Even people we hate or think are evil.
-- God is the source of all life.
-	- What would it look like for you, the tree, to be planted by God, the river, from [[Psalm 1]] practically?
+
 
 [^1]: [The bible Project - Heaven and Earth](https://bibleproject.com/classroom/heaven-and-earth)
 
