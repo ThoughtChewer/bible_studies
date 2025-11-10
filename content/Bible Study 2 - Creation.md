@@ -37,7 +37,6 @@
 	- Day 7 is separated from the block of creation.
 ### Talk through the parts.
 - "God saw that it was good"
-	- 
 	- Humans are the only thing that got a very good. So we seem to play a central role in this story.
 	- In [[The Pentateuch as a Narrative by John Sailhamer]] says, "the "good" is that which is beneficial for humankind. Note, for example, how in the description of the work of the second day (1:6-8) the narrative does not say that "God saw that it was good." The reason is that on that day nothing was created or made that was , in fact, "good" or beneficial for humanity."[^4]
 - 1.2 
@@ -57,7 +56,7 @@
 			- While Humanity might play the central role, we are introduced to the "Heavenly Hosts" as characters who will have some kind of story that runs in parallel to ours.
 - Seed parallel and fruit
 	- We aren't given much to go on with this outside of God's command to "be fruitful and multiply", but the author has included them.
-		- There is a circular nature to references in the bible. Stories that follow creation will reference it to enhance the context of the future story. Stories will also reference it for similar things that will enhance your understand of what is happening in this story.
+		- There is a circular nature to references in the bible. Stories that follow creation will reference it to enhance the context of the future story. Stories will also reference it with similar imagery that will enhance your understand of what is happening in this story.
 - 1.27 poem
 	- The text might be physically structured differently based on your translation.
 		- Looking at it in one that is formatted a little might be helpful to see the structure [Genesis 1:27 ESV](https://www.biblegateway.com/passage/?search=Genesis%201%3A27&version=ESV)
@@ -71,12 +70,18 @@
 - Day 7
 	- Day 7 has no literary ending. So it continues on forever.
 		- Important for note in [[Bible Study 2 - Creation#^creation-idea|next section]].
+	- God resting
+		- It doesn't say that God was tired. God rested because he knew when he had created enough.
+		- The Hebrew word for rest here is [šāḇaṯ](https://www.blueletterbible.org/lexicon/h7673/esv/wlc/0-1/)
+			- Where the term sabbath comes from.
+			- Its a rest from labor, but that doesn't mean someone spends the day sleeping. e.g. Instead of planting a field someone could do "work" that they enjoy, like painting a picture.
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
 	- There is all kinds of word play happening that is completely missed in English.
-	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail they add is very intentional. ^hebrew-minimal
-		- For example the two extra creation events both have seeds.
+	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail is very intentional. For example:^hebrew-minimal
+		- The two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
+		- Day 2 not having a "good".
 	- [[Genesis 1.1-2.3]] being poetry is probably not intuitive in English.
 		- e.g. In Hebrew, 1:1 has 7 words, 1:2 has 14 words, the 7th (last) paragraph has 3 lines which each have 7 words in them, repeated words, etc...
 	- Having a different [[Bible Study 2 - Creation#^hebrew-cosmology|cosmology]].
@@ -88,11 +93,11 @@
 	- Temples represent where Heaven and Earth meet.
 		- Reference the [[Bible Study 2 - Creation#^hebrew-cosmology|3 cosmology zones]].
 	- This is implying that all of creation is God's temple.
-		- Though it will become clear in the next story that heaven and earth are not fully connected yet.
+		- Though it will become clear in [[Genesis 3.1-3.24]] that heaven and earth are not fully connected yet.
 - [[Genesis 1.1-2.3]] represents an ideal. ^creation-ideal
 	- In the same way that 1.1 is a summary statement that book ends the story, the [[Genesis 1.1-2.3]] is a summary that book ends the bible.
 	- Day 7 never ends because God wants his ideal world to go on forever
-		- This being the ideal becomes clear when you contrast day 7 never ending with the next story.
+		- This being the ideal becomes clear when you contrast day 7 never ending with the second half of the next story in [[Genesis 3.1-3.24]].
 		- In Hebrew the number 7 represents completeness.
 - The original audience of this passage are the Hebrews coming out of the Exodus at Mt. Sini who had been slaves for hundreds of years.
 	- Their value to society was based upon how many bricks they could make.
@@ -103,6 +108,7 @@
 	- The first thing a Hebrew does each day is rest.
 - God created the world, but it was not a one and done. As [[Bible Study 2 - Creation#^robin-quote| Robin said]], the world tends to disorder, but God sustains it as an active act of creation.
 - This creation story stands in contrast to other [[Near Eastern Creation Stories]]. There are similarities because people of the same region share common cultural aspects, like temples being where heaven and earth meet or creation starting with chaotic waters. There are also purposeful contrasts that highlight the nature of God and purpose of humanity that differs from other accounts.
+	- The original audience was probably familiar with these stories where as an American reader is unlikely to catch the references / contrasts.
 
 ## Conclusions: 
 - Question: What does this tell us about God?

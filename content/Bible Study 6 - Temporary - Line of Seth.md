@@ -4,10 +4,10 @@
 
 ## Discussion
 - You may want to go through [[Bible Study Appendix A - Jewish Content in the Bible]]
-- Reflecting on Eden [[Genesis 1.1-2.3]] [[Genesis 2.4-3.24]]
+- Reflecting on Eden [[Genesis 1.1-2.3]] [[Genesis 2.4-2.25]][[Genesis 3.1-3.24]]
 	- Think about [[Genesis 1.1-2.3]] as an ideal and the overarching story of the bible. God creates a world where Heaven and Earth are united where he has delegated rule of his domain to others, and they live in harmony creating together for all eternity (day 7 doesn't end).
 		- The place where Heaven and Earth meet is a temple. God wants all of his creation to be his temple, represented by him creating it in [[Genesis 1.1-2.3]].
-	- Then in [[Genesis 2.4-3.24]] you expect to meet a real version of the humans described in [[Genesis 1.1-2.3]].
+	- Then in [[Genesis 2.4-2.25]] you expect to meet a real version of the humans described in [[Genesis 1.1-2.3]].
 		- Adam was created outside the garden, and put into it (Genesis 2.8). He was allowed to go into God's temple.
 		- Adam and Eve don't live up to the idea that was presented. Its not that everything was perfect and then they ruined it. It was that the ideal was never realized.
 	- But God seem intent on making humans part of the plan despite of their short comings.
@@ -26,7 +26,7 @@
 - There is clearly a pattern that is repeated, but if you paid attention, you'll notice the pattern breaks. These breaks give us insights into what the passage is about.
 	- Genesis 5.21-24 - Enoch didn't die. The only clue we are given is that he walked with God.
 		- Genesis 5.5 - Adam eventually did die.
-		- This gives us further insight into the story of [[Genesis 2.4-3.24]]. 
+		- This gives us further insight into the story of [[Genesis 3.1-3.24]]. 
 			- God is the ultimate source of life. He gives it freely to everyone, the good and the evil 
 				- ref Genesis 2.10-14 - River flowed from Eden to places that include Babylon, Assyria, Egypt, and Cush. If you have some bible knowledge, you know bad things are happening in those places.
 			- But in the disconnected state where Heaven and Earth are linked, but not completely joined, humans are still not completely connected to God, and they eventually die.

@@ -5,15 +5,19 @@
 ## Share your story
 - Share part of your story with them. 
 - Be an appropriate level of vulnerable for the current state of the relationship.
+
 ## Helpful questions for developing an understanding of where the person comes from:
 - What caused you to be interested in studying the bible?
 - What do you hope to get out of studying the bible?
 - What is your religious background?
 - What was your childhood like?
 - How is your relationship with your family members?
-- What is the point of being a Christian?
+- Why do people exist?
+- How would you describe God?
 - What does a relationship with God look like?
 - Have you seen God working in your life?
+- What is the point of being a Christian?
+
 ### Ask them what each of the following is:
 - The Church
 - The kingdom of God
@@ -46,7 +50,7 @@
 - Meditate is different than what our culture thinks about it. Here, it refers to quietly reading the bible out loud for the purpose of thinking about it.
 - The bible is designed so that you could read and think about it everyday and you won't run out of things to think about during your lifetime.
 
-Setup time to hangout with them outside of studying the bible. People need to experience God not just learn about him, and the main way that people do that is through his community, aka you spending time with this person (church services don't count as time with the person).
+Setup time to hangout with them outside of studying the bible. People need to experience God not just learn about him, and the main way that people do that is through his community, aka you spending time with this person (church events don't count).
 
 [^1]: [[Psalm 1]]
 

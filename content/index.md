@@ -8,9 +8,10 @@ title: Bible Study Series
 - [[Bible Study 1 - Introduction]]
 - [[Bible Study 2 - Creation]]
 - [[Bible Study 3 - Adam and Eve]]
-- [[Bible Study 4 - Cain and Abel]]
-- [[Bible Study 5 - Temporary - Line of Seth]]
-- [[Bible Study 6 - The Flood]]
+- [[Bible Study 4 - The Fall]]
+- [[Bible Study 5 - Cain and Abel]]
+- [[Bible Study 6 - Temporary - Line of Seth]]
+- [[Bible Study 8 - The Flood]]
 - [[Bible Study 7 - Noah After the Flood]]
 
 ## Appendix
