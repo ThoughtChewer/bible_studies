@@ -47,7 +47,7 @@
 		- The word in Hebrew is [ʿēzer (עֵזֶר)](https://www.blueletterbible.org/lexicon/h5828/nasb20/wlc/0-1/).
 		- The man doesn't need an assistant or someone to make his work easier. He physically is incapable of accomplishing his purpose without the helper.
 		- So there is an element of salvation tied to this word.
-			- This word is also used in [Exodus 18:4](https://www.biblegateway.com/passage/?search=exodus%2018%3A4&version=NASB)[^1] where it says the help was my salvation.
+			- This word is also used in [[Exodus 18|Exodus18.4]] where it says the help was my salvation.
 - Some other Hebrew words that might be of interest:
 	- Creation of Eve
 		- Word for rib is commonly used for the side of a building or tent.
@@ -61,9 +61,9 @@
 			- For verse 15, the word in Hebrew is [yānaḥ](https://www.blueletterbible.org/lexicon/h3240/esv/wlc/0-1/).
 			- The [[The Pentateuch as a Narrative by John Sailhamer]] provides some insight into this:
 			> ...in verse 15 he uses a term that he elsewhere has reserved for two special uses: God's "rest" or "safety" which he gives to human beings in the land (e.g., Ge 19:16; Dt 3:20; 12:10; 25:19), and the "dedication" of something before the presence of the Lord (Ex 16:33-34; Lev 16:23; Nu 17:4; Dt 26:4, 10) Both senses of the term appear to lie behind the author's use of the word in verse 15. The man was "put" into the Garden where he could "rest" and be "safe", and the man was "put" into the Garden "in God's presence" where he could have fellowship with God (3:8).
-			> A second observation from verse 15 concerns the specific purpose for God's putting the man in the Garden. In most English translation of the verse the man is "put" in the Garden "to work it and take care of it." Although this interpretation is found as early as the LXX (2d century B.C.), there are serious objections to it. For one, [discussion of Hebrew noun genders that don't match]... Moreover, later in this same narrative (3:23), "working the ground" is said to be a result of the Fall, and the narrative suggests that the author has intended such a punishment to be seen as an ironic reversal of humanity's "working" and "keeping" the Garden would not provide a contrast to "working the ground." In view of these objections, which cannot easily be overlooked, a more suitable translation of the Hebrew text would be "to worship and obey." The man is put in the Garden to worship God and obey him. The man's life in the Garden was to be characterized by worship and obedience; he was to be a priest, not merely a worker and keeper of the Garden. Such a reading not only answers the objections raised against the traditional English translation but also suits the ideas of the narrative Throughout chapter 2, the author has consistently and consciously developed the idea of the human "likeness" to God along the same lines as the major themes of the Pentateuch as a whole-worship and sabbath rest. [^2]
+			> A second observation from verse 15 concerns the specific purpose for God's putting the man in the Garden. In most English translation of the verse the man is "put" in the Garden "to work it and take care of it." Although this interpretation is found as early as the LXX (2d century B.C.), there are serious objections to it. For one, [discussion of Hebrew noun genders that don't match]... Moreover, later in this same narrative (3:23), "working the ground" is said to be a result of the Fall, and the narrative suggests that the author has intended such a punishment to be seen as an ironic reversal of humanity's "working" and "keeping" the Garden would not provide a contrast to "working the ground." In view of these objections, which cannot easily be overlooked, a more suitable translation of the Hebrew text would be "to worship and obey." The man is put in the Garden to worship God and obey him. The man's life in the Garden was to be characterized by worship and obedience; he was to be a priest, not merely a worker and keeper of the Garden. Such a reading not only answers the objections raised against the traditional English translation but also suits the ideas of the narrative Throughout chapter 2, the author has consistently and consciously developed the idea of the human "likeness" to God along the same lines as the major themes of the Pentateuch as a whole-worship and sabbath rest. [^1]
 
-			- This fits with the discussion in [[Bible Study 2 - Creation]] about the Garden being God's temple, and later in [[Exodus 19]] where God tells the Israelites he is going to make them a kingdom of priests.
+			- This fits with the discussion in [[Bible Study 2 - Creation]] about the Garden being God's temple, and later in [[Exodus 19|Exodus 19.6]] where God tells the Israelites he is going to make them a kingdom of priests.
 ## Conclusions:
 - Reminder: the bible isn't just a videography of events. The stories are more focused on the meaning of those events than the physical events themselves. So at times, the author will repeat things from different angles or skip things entirely to facilitate communicating with the reader.
 - Question: How did this story expand our understanding of God?
@@ -93,9 +93,22 @@
 6. Structure was a big part of the last study, why didn't we discuss it here?
 
 ### Practical things to talk through with the learner:
-- 
+- Understanding the bible takes a lot of work. Its not something you just read and can fully grasp all the things that are happening.
+	- Hopefully they are learning some tools to be able to engage with the bible in a meaningful way.
+		- Types of literature
+		- Structure of the story
+		- Repeated themes
+		- Questioning things that seem off
+		- Paying attention to details
+		- Multiple translations
+		- [BlueLetterBible.org](https://www.blueletterbible.org/)
+		- [Online Concordance ](https://biblehub.com/)
+		- Reading books from scholars about the bible
+	- The best way to engage with the bible is by talking about it in groups of people.
+	- Internalizing concepts requires dedicated time to think about.
+- Talk through how these stories are starting to reshape how they view:
+	- God
+	- Themselves
+	- Their relationship with God
 
-
-[^1]: [[Exodus 18]]
-
-[^2]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 100-101.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
+[^1]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 100-101.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
