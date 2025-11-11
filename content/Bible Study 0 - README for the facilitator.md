@@ -21,6 +21,7 @@
 	- Skills for engaging with the bible as it was intended to be.
 	- Gaining insights into the differences in culture and thinking between the learner and the authors of the bible.
 	- Learning how to understand Jesus in his culture.
+		- Have to understand his culture to understand him in it.
 ## Notes to the facilitator:
 - If you are new to the study series, this isn't the kind of thing to sit down with a learner and go through blindly. You're going to want to familiarize yourself with the material beforehand. 
 	- If you have not engaged in significant Jewish content before this study I encourage you to read [[Bible Study Appendix A - Jewish Content in the Bible]]. Its a short blurb that will help you as you begin to engage with the culture the bible was written by and to. This might be something you want to share with the learner during [[Bible Study 1 - Introduction]]
@@ -54,6 +55,7 @@
 		- Concepts and ideas in the bible often don't  directly translate to our lives. This is where the facilitator will have to work to draw out the learner and help them to apply things that the bible is trying to teach them to their life.
 			- The bible is not a list of instructions. It is harmful to reduce the experience of studying the bible to "how do I find the next thing to do".
 			- Many of the things, especially in Genesis 1-11, are a reshaping of the learner's world view. This is a complex process and will takes time. Repetition helps things to set in. So you might need to have related conversations and reference the passages many times as the learner progresses.
+		- I have suggestions here, but you are probably going to have different things to talk through based on where the learner is at. We all have different starting places and holes in our understanding on this journey.
 ## Structure of the series
 - The core studies tries to keep material covered to a minimum while giving the learner the full context for Jesus.
 - Frequently, there are other topics that are helpful to engage in with a learner for their specific situation or interest level that are outside the scope of the core series. Supplementary studies are there to support this effort.
