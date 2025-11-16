@@ -6,8 +6,9 @@
 - Answer questions 1, 2, 4, and 5 from [[Bible Study 3 - Adam and Eve#Questions for the future]]
 	- Setup the conflict for the rest of the bible.
 	- Show structure for the Adam and Eve story, and how the imagery links all the stories together.
-- Introduce archetypes
 - Introduce larger biblical structures (bigger than one story)
+- Introduce archetypes
+
 
 ## Read through [Genesis 3.1-3.24](https://www.biblegateway.com/passage/?search=Genesis%203.1-3.24&version=NASB)
 - Question: Big picture, what is happening in this story?
@@ -60,6 +61,10 @@
 		- The pair of stories in Genesis 2-3 start with the creation of life and harmony between Adam and animals and Adam and Eve.
 		- The stories end with Adam and Eve hiding parts of their bodies from each other, the animosity between humanity and the snake, the death of an animal to clothe Adam and Eve, and the (eventual) death of Adam and Eve.
 			- God is the source of life, he had to breath into Adam's form before Adam came to life, and banishment from that source will result in eventual death.
+	- Eating
+		- 2.16 blessing, you can eat freely from any tree in the garden.
+		- 3.6 rebellion, Adam and Eve eat from the tree God told them not to.
+		- 3.17 curse, the land is now cursed and instead of eating freely, you can only eat from it with hard labor.
 - Question: In America, gaining knowledge and understanding is basically always viewed as a positive thing. Was it a positive thing for Adam and Eve?
 	- The first thing that happened is they realized they were naked and hid their bodies from the other instead of becoming one flesh.
 	- The second thing they did was hide from God instead of walking with him.
@@ -74,11 +79,37 @@
 		- The fall wasn't only for the humans. The snake chose to rebel too.
 	- So the story is not: everything was perfect and then two humans ruined it for the rest of us.
 	- "The biblical story is: God created a space for his humans to partner with the divine project to spread life and order out of the realm of chaos and non-order... It is an ideal that was never realized"[^1]
-
 - Question: How does God respond to the fall of humanity and the snake?
-	- #todo 
-
+	- Events:
+		- He notices that something is off.
+		- He starts asking them questions.
+		- He "curses" them.
+		- He clothed Adam and Eve.
+		- He banished Adam and Eve from the garden.
+	- Talking through it:
+		- Question: Why is God concerned with them living forever only after they have eaten from the tree in verse 3.22?
+			- From the beginning, God has given mankind good things and has been looking out for their needs. Adam and Eve were doing really well (Genesis 2.25) before eating the fruit, and immediately afterwards things were not so good.
+			- So instead of living for eternity in a state of goodness, now they would be living in eternity with this overarching negative tone to everything in their life.
+			- So while banishment was a punishment for disobeying God, it was also a mercy in that their suffering would come to an end because they would be separated from the source of life and eventually die.
+		- In 3.21, God meets Adam and Eve where they are at, and cares for them.
+			- He doesn't try to convince them that naked isn't bad.
+			- He simply gives them clothes to that addresses their concerns.
+				- It is significant (and comical) God gives them "skin" to cover their "nakedness".
+				- It is also significant that this involves the first death in the biblical story.
+		- In 3.14-3.19, this section is God explaining what is going to happen to each party.
+			- Mankind is now going to die and have to work hard to get their food because they will be banished from the garden and from the source of life.
+			- The two things that were the focus of God's blessing, babies and marriage, are now tainted. They are now going to involve hardship.
+				- The word "pain" in 3.16 is the same word as "hard labor" in 3.17.
+				- Childbearing is still the means to which ultimate victory will be found. 
+			- The snake has started a divide in God's creation where everyone will have to choose a side, and ultimately the snake will lose.
+- Introduction of the architype:
 	- "Although much can be said about the curse on the snake, the woman, and the man, it is important to note that the text says very little. In this passage we can see most clearly the artful composition that produced the Pentateuch. There are no long discourses on the appearance of the snake before and after the curse. Did he have feet? Did he have wings? The thoughts of the snake, if there were such, or the thoughts of the man and woman are left completely out of view. The narrative gives nothing to help us understand their plight as individuals. The snake, the woman, and the man are not depicted as individuals involved in a personal crisis; rather, they are representatives. We are left with the impression that this is not their story so much as it is our story, the story of humankind. With great skill the author has present these three participants as the heads of their race. The snake on the one hand and the man and the woman on the other are as two great nations embarking on a great struggle, a struggle that will find its conclusion only by an act of some distant and as yet unidentified "seed.""[^2]
+		- If you need further proof:
+			- In Hebrew, [Adam](https://www.blueletterbible.org/lexicon/h120/nasb20/wlc/0-1/) means mankind and [Eve](https://www.blueletterbible.org/lexicon/h2332/nasb20/wlc/0-1/) means life.
+			- Serpents are frequently special mythical creatures in [[Near Eastern Stories]]. For example, in Egypt, the sun god Ra goes into the underworld each night and has to defeat Apophis, the great chaos serpent, each night to return.[^3]
+	- They are important to understand because they are used frequently in the biblical story to convey dense meaning through imagery as discussed in [[Bible Study Appendix A - Jewish Content in the Bible]]. Additionally, they are signposts for cyclical patterns in the biblical story, and it will help the reader to understand the larger context if they can pickup on those queues.
+	- Just because someone becomes an architype, that does not mean that those events didn't happen. Nor does it decrease the significance of the individual event. It just means that it pulls it into a larger context.
+
 
 - Add to previous bible study --> command to enjoy creation, eating from the trees --> practical question for learner too.
 	- Session 13 adam to noah
@@ -88,6 +119,7 @@
 - desire has entered
 - Who determines what is good
 - “Although it is assumed by all the English translations that ערום has a negative sense (‘crafty’) in Genesis 3:1, a closer examination suggests otherwise. The description of the serpent commences with its being ‘more prudent (_‘arum_) than all the creatures of the field’ (Genesis 3:1), and after having tempted Eve, concludes with its bing ‘more cursed (_’arur_) than all the creatures of the field (3:14).’ The two lines are nearly identical in Hebrew, suggesting an intentional contrast between them: the cursed serpent is a negative contrast to an initially positive shrewd serpent. Not only does ‘prudent’ make more sense of the narrative flow of events, it also distances God from any responsibility with respect to the origin of evil. God did not make a ‘crafty’ creature; he made a wise creature. The serpent’s ‘prudence’ may even be a sign of God’s special favor toward the serpent above the other animals. The serpent’s decision to use its prudence for evil intentions, however, resulted in a fall from divine favor to eternal humiliation, and this offers a solution to the age-old question of the serpent’s (and Satan’s) fall. When did the serpent rebel and fall? It ‘fell’ in Genesis 3. Thus, Genesis 3 depicts the fall of Adam, and Eve, and the serpent.” Postell, Seth (2011). Adam as Israel. Pickwick Publications.
+- God's response to the rebellion sets the stage for the rest of the biblical narrative.
 
 ### Questions for the future:
 1. 
@@ -109,3 +141,4 @@
 
 [^2]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 106.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
 
+[^3]: https://en.wikipedia.org/wiki/Apophis
