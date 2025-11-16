@@ -1,6 +1,10 @@
 ## Goals:
 - Read through [[Genesis 1.1-2.3]].
 - Help the learner begin to learn how to wrestle through ancient Hebraic texts.
+	- Structure
+	- Repetition
+	- Symbolism
+	- Attention to detail
 - Invite the learner to reshape their world view to align with the bible.
 - Help the learner start to understand their relationship with God.
 
@@ -78,7 +82,7 @@
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
 	- There is all kinds of word play happening that is completely missed in English.
-	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail is very intentional. For example:^hebrew-minimal
+	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail is very intentional. For example: ^hebrew-minimal
 		- The two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
 		- Day 2 not having a "good".

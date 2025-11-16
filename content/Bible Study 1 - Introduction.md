@@ -1,10 +1,14 @@
+#todo this will need to be updated to align more with the material in the study series after I finish more of the studies
 ## Goals: Get to know each other and get on the same page for the goal of your time together
 - You want to know what their thoughts are on life, what their history and relationships look like, and what they hope to get out of all of this. It's important to know where this person is coming from so that you can help them get to where you want to go.
 - Set expectations for what studying the bible is going to be like.
+- If you haven't already, start to develop a friendship with this person.
 
 ## Share your story
 - Share part of your story with them. 
 - Be an appropriate level of vulnerable for the current state of the relationship.
+	- Remember that you are setting the tone for the studies. If you want them to be open and vulnerable, you have to be the example.
+	- Being to vulnerable too soon can be off putting for people. So be open, but don't be overly vulnerable. Finding that balance is a skill. So if you've never thought about it before, you might want to get some help in figuring out how to do that.
 
 ## Helpful questions for developing an understanding of where the person comes from:
 - What caused you to be interested in studying the bible?
@@ -17,6 +21,9 @@
 - What does a relationship with God look like?
 - Have you seen God working in your life?
 - What is the point of being a Christian?
+- What do you know about the bible?
+	- Why did the authors write the bible?
+	- How do the authors communicate with the reader?
 
 ### Ask them what each of the following is:
 - The Church

@@ -1,5 +1,6 @@
 ## Goals:
-- 
+- Read through [[Genesis 4.1-4.26]]
+- Answer questions 3 from [[Bible Study 3 - Adam and Eve#Questions for the future]]
 
 ## Read through: []()
 - Question: Big picture, what is happening in this story?

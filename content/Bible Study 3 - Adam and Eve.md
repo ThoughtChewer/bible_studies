@@ -90,7 +90,6 @@
 3. What is going on with the building language around the creation of woman?
 4. Why does the passage end with a mention of them being naked and not ashamed?
 5. We have started to see some not good in the story, but this seems trivial compared to what I see in humanity. Where is the real conflict?
-6. Structure was a big part of the last study, why didn't we discuss it here?
 
 ### Practical things to talk through with the learner:
 - Understanding the bible takes a lot of work. Its not something you just read and can fully grasp all the things that are happening.
