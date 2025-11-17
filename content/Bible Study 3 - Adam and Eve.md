@@ -107,10 +107,7 @@
 	- The best way to engage with the bible is by reading it out loud and talking about it in a group of people.
 	- Internalizing concepts requires dedicated time to think about.
 - God has given us a good creation and wants us to enjoy it. Do you spend time just enjoying parts of life and thanking God for them?
-- Talk through how these stories are starting to reshape how they view:
-	- God
-	- Themselves
-	- Their relationship with God
+
 
 [^1]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 100-101.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
 

@@ -131,7 +131,10 @@
 2. How is God going to transform humanity to become who we were created to be and restore our relationship with him?
 
 ### Practical things to talk through with the learner:
-- 
+- Talk through how these stories are starting to reshape how they view:
+	- God
+	- Themselves
+	- Their relationship with God
 
 
 
