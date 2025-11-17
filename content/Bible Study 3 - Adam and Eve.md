@@ -31,10 +31,12 @@
 	- Verse 9
 		- Trees are good for food, but also pleasing to the sight. That's interesting.
 			- In [[Genesis 1.1-2.3]], "God saw that it was good". So we have continued with the sight thing.
-		- Tree of knowledge of good and evil.
-			- Verse 17, God tells man not to eat from it.
-				- In [[Genesis 1.1-2.3]], God creates man to rule part of his creation. Knowing good from evil seems like it would be really helpful for that task.
+		- Verse 16 God's first command to Adam is to eat freely, basically to enjoy all these great trees I put here for you.
+			- God wants Adam to enjoy his creation.
+		- Verse 17, God tells man not to eat from the tree of knowledge of good and evil.
+			- In [[Genesis 1.1-2.3]], God creates man to rule part of his creation. Knowing good from evil seems like it would be really helpful for that task.
 			- What's up with the dying from eating fruit?
+		- The Bible project uses the example of a dad giving his son a pocket knife. He says "Here is a gift, enjoy it! But don't stab your brother." A pocket knife can be a great thing, but one way to ruin that great thing is to stab your brother. [^2]
 	- Verse 18
 		- We have our first "not good" in the story.
 - Question: Why is it "not good" for man to be alone? Both God and animals are there, so he isn't even technically alone.
@@ -101,13 +103,15 @@
 		- Paying attention to details
 		- Multiple translations
 		- [BlueLetterBible.org](https://www.blueletterbible.org/)
-		- [Online Concordance ](https://biblehub.com/)
 		- Reading books from scholars about the bible
-	- The best way to engage with the bible is by talking about it in groups of people.
+	- The best way to engage with the bible is by reading it out loud and talking about it in a group of people.
 	- Internalizing concepts requires dedicated time to think about.
+- God has given us a good creation and wants us to enjoy it. Do you spend time just enjoying parts of life and thanking God for them?
 - Talk through how these stories are starting to reshape how they view:
 	- God
 	- Themselves
 	- Their relationship with God
 
 [^1]: [SailHamer, John H. (1992). The Pentateuch as Narrative: A Biblical-Theological Commentary. 100-101.](https://www.amazon.com/Pentateuch-Narrative-Biblical-Theological-Commentary/dp/0310574218)
+
+[^2]: [The Bible Project Class Adam to Noah Session 13](https://bibleproject.com/classroom/adam-to-noah/sessions/13)

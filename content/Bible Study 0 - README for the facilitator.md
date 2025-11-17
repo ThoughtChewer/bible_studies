@@ -12,13 +12,13 @@
 ## Goal of the study series
 - The primary goal of this series is to help someone become a "successful Christian".
 	- I phrase it that way because the focus isn't getting the learner to the point of becoming a Christian. Instead the focus is setting them up to be successful for the rest of their life.
-	- This is not a race to the finish, but the intentional building of a tower.
+	- This is not a race to the finish, but the laying of a foundation for a tower.
 - Sub goals that culminate in the primary goal for the learner:
 	- Learn how to ask good questions.
 	- Understand who God is.
 	- Understand who they are.
-	- Understand who God is to them.
-	- Skills for engaging with the bible as it was intended to be.
+	- Understand who God is in relation to them.
+	- Skills for engaging with the bible as it was designed to be.
 	- Gaining insights into the differences in culture and thinking between the learner and the authors of the bible.
 	- Learning how to understand Jesus in his culture.
 		- Have to understand his culture to understand him in it.
@@ -26,7 +26,8 @@
 - If you are new to the study series, this isn't the kind of thing to sit down with a learner and go through blindly. You're going to want to familiarize yourself with the material beforehand. 
 	- If you have not engaged in significant Jewish content before this study I encourage you to read [[Bible Study Appendix A - Jewish Content in the Bible]]. Its a short blurb that will help you as you begin to engage with the culture the bible was written by and to. This might be something you want to share with the learner during [[Bible Study 1 - Introduction]]
 	- If you do not understand how bible translations are created I encourage you to read [[Bible Study Appendix B - Bible Translations]]. Its a short blurb on the subject which will be helpful background information as you start to engage with Hebrew words in the study.
-		- I have decided to link everything with #todo ____ for xy and z reasons.
+		- I have decided to link all the verses to the NASB version on biblegateway.com for convenience and consistency.
+		- A few times I link to other version because they format the text in helpful ways, like a poetry block.
 - You don't have to have all the answers.
 	- We are all on a journey of understanding, and we will never have all the answers.
 	- Its a lot easier to say "I'm not sure" or "I haven't thought about that yet" if you don't paint yourself as the expert.
@@ -39,23 +40,26 @@
 	- Allowing the learner the chance to work to discover things is going to cause the information to stick with them more than if you spoon feed it to them.
 	- Part of how you understand passages in the bible is when the authors reference previous passages with later passages. Thinking about how the passages parallel or invert each other sheds light on the meaning of both passages. But it takes time to flip back and forth and think about that.
 	- If the learner has questions about future topics, it is ok to say we will address that later. Going through the material will shape how we think about the topics. So, your understanding and question might change by the time we get there.
+- If this is your first time through the series <u>__DO NOT__</u> go into a study without going through the material before hand by yourself.
+	- This stuff is complicated. You're going to want to make sure that you understand it and can talk through the points effectively with the learner.
 - Each study covers a section of the story.
 	- There is no intended time length for a single study. Some are going to be longer than others.
 - Structure of each study (after [[Bible Study 1 - Introduction]])
 	- Reading
-		- There is a passage (sometimes multiple) to read
+		- There is a passage to read.
 		- There are questions with answers that are there to guide discussions and to highlight important parts of the passage.
-			- This is not an exhaustive list of things to talk about. Nor do you have to cover every point. But if you skip something, there is a good chance it is referenced later in this study or in a future one.
 			- I have attempted to keep the study content related to the core ideas that are important for understanding the main story of the bible.
+			- This is not an exhaustive list of things to talk about. Nor do you have to cover every point. But if you skip something, there is a good chance it is referenced later in this study or in a future one.
 	- Conclusions
 		- A place to review the important things discussed in this study and allows an additional layer of framing or connecting ideas together to weave them into the larger story.
 	- Questions for the future
-		- This is a place to note things that are left unanswered by the passage or interesting tidbits that seem worth remembering, but the reader may be unsure why at this point.
+		- This is a place to note things that are left unanswered by the passage or interesting tidbits that seem worth remembering even if the reader is unsure why at this point.
 	- Practical things to talk through with the learner
 		- Concepts and ideas in the bible often don't  directly translate to our lives. This is where the facilitator will have to work to draw out the learner and help them to apply things that the bible is trying to teach them to their life.
-			- The bible is not a list of instructions. It is harmful to reduce the experience of studying the bible to "how do I find the next thing to do".
+			- The bible is not a list of instructions. It is harmful to reduce the experience of studying the bible to "adding things to a checklist to  do or rememeber".
 			- Many of the things, especially in Genesis 1-11, are a reshaping of the learner's world view. This is a complex process and will takes time. Repetition helps things to set in. So you might need to have related conversations and reference the passages many times as the learner progresses.
-		- I have suggestions here, but you are probably going to have different things to talk through based on where the learner is at. We all have different starting places and holes in our understanding on this journey.
+				- That being said, part of what Genesis 1-11 does is repeat patterns and stories. So part of this process is baked in for you already. You just have to help them connect the dots.
+		- I have suggestions here, but you are probably going to have different things to talk through based on where the learner is at. We all have different starting places  on this journey and gaps in our understanding.
 ## Structure of the series
 - The core studies tries to keep material covered to a minimum while giving the learner the full context for Jesus.
 - Frequently, there are other topics that are helpful to engage in with a learner for their specific situation or interest level that are outside the scope of the core series. Supplementary studies are there to support this effort.

@@ -47,7 +47,7 @@
 	- "Formless and void, and darkness"
 		- Deep waters, sea monster (ref 1.21), darkness, formless, and void are all symbols of chaotic and unordered environments. 
 			- “Genesis 1:2 depicts the pre-creation state as an unholy trinity: wilderness, darkness, and cosmic chaos waters. However, within the Bible itself, these chaos waters can be depicted metaphorically as the chaos dragon, and in this way, the symbolic meaning of the waters remains a viable idea today. In the Bible, water and sea beasts function as evocative symbols of overwhelming and powerful chaos-inducing forces. They remind us that God’s creation is good but not tame. There are forces beyond human control that should be treated with respect, because when they exceed their bounds they are destructive. At a metaphorical level dragons and wild oceans remain helpful symbols of chaos that can invade communal and individual human worlds, threatening order and life itself. Within the Bible the symbol is used to describe political oppression and the collapse of order in the lives of communities and people. At a metaphysical level ... Genesis 1 depicts a creation that, left to itself, would collapse back into chaos. The world does not sustain or order itself. It is God who ordered and continues to order reality … But the tendency towards disorder is inherent within the world … The sea represents non-being, literally ‘no-thing.’"[^5]^robin-quote
-			- Cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
+			- There is a cultural difference in the meaning of nothing. Hebraic nothing = chaotic or empty. American nothing = absence of material substance.
 	- Since the story is centered around human flourishing, 1.2 presents 3 problems to that end that God must solve.
 		- On day 1 God deals with the darkness problem.
 		- On days 1-3 when God is creating spaces he deals with the formless problem.
@@ -81,7 +81,7 @@
 			- Its a rest from labor, but that doesn't mean someone spends the day sleeping. e.g. Instead of planting a field someone could do "work" that they enjoy, like painting a picture.
 ### Things that might be unfamiliar to American readers:
 - Understanding Hebrew writings can be difficult.
-	- There is all kinds of word play happening that is completely missed in English.
+	- There are all kinds of word play happening that is completely missed in English.
 	- Authors us very minimalistic descriptive language. They leave a lot out. So each detail is very intentional. For example: ^hebrew-minimal
 		- The two extra creation events both have seeds.
 		- Fruit trees seem randomly mentioned... I wander if that will be important?
