@@ -57,10 +57,15 @@
 	- As we can see from how Cain's descendants turn out, that choice will heavily impact the next generation, but they will still have the ability to choose.
 	- You can also see it in Eve's response to giving birth correlated with the children the birth produced.
 ### Questions for the future:
-1. 
+1. If humanity is becoming this bad, is God going to do something about it?
 
 ### Practical things to talk through with the learner:
-- 
+- How has your family shaped your understanding of the world?
+	- Relationship with Dad frequently shapes how we view God.
+	- Cultural values get passed on.
+- Are there things from your parents that you want to imitate?
+- Are there things from your parents that you want to leave behind?
+- Based on the choices you are currently making, which seed do you think you are more aligned with?
 
 [^1]: [The Bible Project Class Adam to Noah Session 27](https://bibleproject.com/classroom/adam-to-noah/sessions/27)
 
