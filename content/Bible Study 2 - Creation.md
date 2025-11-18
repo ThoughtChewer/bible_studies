@@ -22,7 +22,7 @@
 		- Don't shortcut the process. Let them do some work and enjoy the fruits of their labor. 
 			- If they get stuck, providing a targeted hint is ok.
 				- e.g. "I don't see anything else."--> "Have you noticed anything interesting about good in the passage?"
-	- Reference image for after manually digging through the text. [[Genesis 1 Structure.png]][^1]
+	- Reference image for after manually digging through the text [[Genesis 1 Structure.png]].[^1]
 	- 1.1 parallels 2.1 to form bookends to the poem with summary statements.
 	- 1.2 Starting place.
 		- Darkness, formless, and void.
