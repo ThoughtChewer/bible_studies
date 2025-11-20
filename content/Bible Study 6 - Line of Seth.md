@@ -9,7 +9,7 @@
 - You are not alone in thinking this is boring, monotonous, and not important. Most Americans do.
 	- For American, genealogies are just a list of names and dates that validates historical accuracy.
 	- For Hebrews, genealogies are about your identity. 
-		- Matthew writes a genealogy of Jesus in [Matthew 1](https://www.biblegateway.com/passage/?search=matthew%201&version=NIV)[^1]. Verse 17 summarizes it by saying "Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah."
+		- Matthew writes a genealogy of Jesus in [[Matthew 1]]. Verse 17 summarizes it by saying "Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah."
 		- They had to skip some generations to do that. This isn't a trick. Everyone knows they skipped generations. It doesn't make the genealogy inaccurate.
 			- The point is not to trace the line of Jesus historically.
 			- The point is to tell who Jesus is, his identity, which in this culture is very heavily influenced by the symbolism and legacy of your ancestors.
@@ -50,7 +50,3 @@
 ### Practical things to talk through with the learner:
 - 
 
-
-
-
-[^1]: [[Matthew 1]]
