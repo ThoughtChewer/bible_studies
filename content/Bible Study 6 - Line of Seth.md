@@ -26,17 +26,19 @@
 - Question: What does 5.21-24 tell us?
 	- The secret to not dying is walking with God.
 - Question: What does 5.28-31 tell us?
+	- This is a different Lamech than in [[Genesis 4.1-4.26|Genesis 4]]
 	- Noah is the guy who is going to fix everything!
-		- He is going to undo the curse from [[Genesis 3.1-3.24|Genesis 3.17]]
 		- In Hebrew, [Noah](https://www.blueletterbible.org/lexicon/h5146/nasb20/wlc/0-1/) means rest.
-			- God "rested" Adam in the garden in [[Genesis 2.4-2.25|Genesis 2.15]]
+			- God "rested" Adam in the garden in [[Genesis 2.4-2.25|Genesis 2.15]].
+		- He is going to undo the curse from [[Genesis 3.1-3.24|Genesis 3.17]]. 
 - Noah's entry in 5.32
 	- Concludes in 9.28 - "Noah lived 350 years after the flood. So all the days of Noah were 950, and he died."
+		- So the whole next story is part of this genealogy.
 	- In 6.9, we are told that "Noah was a righteous man, blameless in his generation. Noah walked with God."
 		- So Noah is going to be saved from death
 	- In 7.6, "Now Noah was six hundred years old when the flood of water came upon the earth."
 ## Conclusions:
-- So this is genealogy is the line of the woman that contrasts the line of Cain that [[Genesis 4.1-4.26|Genesis 4]] concluded with. 
+- So this is genealogy is the line of the woman that contrasts the line of Cain at the end of [[Genesis 4.1-4.26|Genesis 4]]. 
 	- We are told that walking with God will save someone from dying.
 	- And in the same way that Lemech is the representative of the seed of the snake, Noah is going to be the representative of the seed of the woman. And in the story that is encompassed in the genealogy structure we will gain further insight into what that looks like.
 - This leaves the reader expecting that Noah is the guy we've been waiting for. He is going to set things right and get us back into the garden.
