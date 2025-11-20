@@ -10,7 +10,7 @@ title: Bible Study Series
 - [[Bible Study 3 - Adam and Eve]]
 - [[Bible Study 4 - The Fall]]
 - [[Bible Study 5 - Cain and Abel]]
-- [[old Bible Study 6 - Temporary - Line of Seth]]
+- [[Bible Study 6 - Line of Seth]]
 - [[Bible Study 7 - The Flood]]
 - [[Bible Study 8 - Noah After the Flood]]
 - Descendants of Noah
