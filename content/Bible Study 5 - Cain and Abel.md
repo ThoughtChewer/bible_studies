@@ -58,6 +58,7 @@
 	- You can also see it in Eve's response to giving birth correlated with the children the birth produced.
 ### Questions for the future:
 1. If humanity is becoming this bad, is God going to do something about it?
+2. We know what the seed of the serpent looks like (Lemech), but what does the seed of the woman look like?
 
 ### Practical things to talk through with the learner:
 - How has your family shaped your understanding of the world?
