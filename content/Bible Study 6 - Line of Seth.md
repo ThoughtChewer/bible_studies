@@ -41,12 +41,12 @@
 - So this is genealogy is the line of the woman that contrasts the line of Cain at the end of [[Genesis 4.1-4.26|Genesis 4]]. 
 	- We are told that walking with God will save someone from dying.
 	- And in the same way that Lemech is the representative of the seed of the snake, Noah is going to be the representative of the seed of the woman. And in the story that is encompassed in the genealogy structure we will gain further insight into what that looks like.
-- This leaves the reader expecting that Noah is the guy we've been waiting for. He is going to set things right and get us back into the garden.
-
+- 
 
 ### Questions for the future:
-1. 
+1. This leaves the reader expecting that Noah is the guy we've been waiting for. He is going to set things right and get us back into the garden. How is he going to do it?
+2. What does it mean to walk with God?
 
 ### Practical things to talk through with the learner:
-- 
+- Figure out how to engage with sections of text, that at first seem uninteresting, to find the gems hidden inside.
 

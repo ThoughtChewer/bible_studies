@@ -47,6 +47,7 @@
 	- There is a tainting effect on the earth, and the cries of the deceased rise up to God.
 ## Conclusions:
 - People are now congregating in places based on fear of their neighbors. In an effort to create their own salvation they becomes places of violence and oppression that taint the earth and cry out to God.
+	- This is what it looks like when mankind has found their own good instead of trusting God for the good.
 - At the end of 4.24, the reader is left with a dark picture of humanity that lies in stark contrast to the image presented to the reader in [[Genesis 1.1-2.3]] wondering if there is any hope of us ever becoming who God created us to be.
 - Then the story concludes with a ray of hope. Eve has had a change of heart, and with the birth of her new son, people have started to turn back to God.
 	- This is another theme that will continue through the story, there will always be a remnant that provides a ray of hope.
