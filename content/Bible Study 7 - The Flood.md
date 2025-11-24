@@ -23,9 +23,8 @@
 	- Question: Does this sound like a good place to live?
 		- Not just the kings, but everyone was this way.
 - Question: What is God's response to his creation rebelling against him?
-	- He is very sad.
-- Question: What are God's intentions with the flood, beyond destroying everything?
-	- Let them answer.
+	- God looks at his creation, and instead of seeing "good", he sees "evil". Instead of spreading life his creation is destroying itself through humanity's choices, and that causes him to be very sad.
+- Question: What are God's intentions with the flood?
 	- Question: What has God done in previous stories?
 		- He has met humanity where it is at and provided for it.
 			- "Skin" for Adam and Eve and protection for Cain.
@@ -37,6 +36,7 @@
 		- If that seems crazy, you could use the example of a cancer that has spread through the entire body.
 			- Doing chemotherapy destroys the cancer, but the treatment also destroys parts of the body as well.
 			- The treatment is done to save what is left of the body, and then the person can start the recovery process.
+		- “The [verse] suggests that God has seen where the ruination of creation is headed and has decided to accelerate the process to its completion … the plain sense of the Hebrew text conveys something very different from most English translations, which are perhaps influenced by the view of an angry, punitive deity. ... The flood was an ancient symbol of destruction and disorder, as so is a fitting medium for the dissolution of creation as it overwhelms every boundary and returns creation to the primordial undifferentiated ‘deep’ that existed before Yahweh spoke boundaries into being. ... We are left with the sense that God is not so much sending the flood to punish the world as much as facilitating, through the flood, the inevitable descent into chaos caused by human destructiveness and violence. God ruins an already ruined creation, and in so doing creates conditions for a reordering and a renewal to take place.”[^5]
 - Question: If you think about the directions for the ark, what does it sound like?
 	- Its a box. A boat would need a lot more instructions.
 	- There are a couple layers of meaning here.
@@ -72,44 +72,31 @@
 		- Waters are separated, land appears, plants on the land, and creatures on the land.
 		- The Hebrew word for wind is [rûaḥ](https://www.blueletterbible.org/lexicon/h7307/nasb20/wlc/0-1/). This is also the same word used in [[Genesis 1.1-2.3]] when God's "spirit" hovered over the waters.
 		- First day of the year.
-- 
---------------------------------------------
-- POV change
-	- 6.5-7.5 Heavenly POV, ends with the onset of the flood
-	- We, the reader are forced to pick a side, either enter the ark or stand outside.
-		- Can't be a bystander and watch God's judgement.
-- 6.5-8
-	- God sees not good (opposite of creation)
-	- God is pained by what he sees
-		- Noah brings comfort to humans and to God
-- 6.9-12
-	- Begins with Noah's righteousness
-	- Suggests that the story is about why God saved Noah, not why God sent the flood.
-	- Parallel to Enoch
-		- God saves those who walk with him.
-	- Not told why he is righteous, but in the next section we get to see a better piece.
-		- Hebrew authors are fans of "Show not tell" if you haven't noticed yet.
-		- Simple obedience to God's commands and trust in his provision.
-- 8.15-19
-	- FUTURE:
-		- Parallel to abraham (p128 pentateuch)
-- 8.20-9.19
-	- Focus of humans after the flood is still made in God's image 9.6
-	- FUTURE:
-		- Parallel noah's altar and moses' altar at mt sini ex 24.4-18
-	- 
-- Question: What is the focus of this story, destruction or salvation?
--------------------------------------------
-
-
+- Question: What causes God's change of heart?
+	- The flood has completed and new creation has happened, but the problem still remains. Humans are still the same creatures as they were before and Noah is the only righteous one.
+	- God changes when he smells Noah's sacrifice.
+	- “Salvation through the ark does not fulfill the meaning and destiny of Noah’s name (from Gen. 5:29). Rather, Noah is saved in order to worship, to offer the sacrifice that causes God another ‘repenting’ (נחם, from 6:8), that is, a ‘rest/comforting’ (ניחוח (that turns curse into blessing. Noah’s priestly mediation is the means by which relief from the toil of the curse ground became a reality. For God as well as for humanity, Noah is the consolation for the fall of Adam.”[^3]
+- Question: What does God mean in verse 9.21 when he says he won't flood the world again because the human heart is evil? That was root cause of why he caused the flood in the first place.
+	- Question: Was God justified in causing the flood?
+		- Yes. Justice was done.
+	- But the flood didn't fix the fundamental problem with the setup.
+	- So God is going to change his strategy and have mercy on humanity as he finds a different way to fulfill his purpose through humanity.
+	- But something did change with Noah's sacrifice.
+		- “But it is not simply that an extraordinary act of obedience by a righteous man [Abraham] leads to extraordinary blessing. It is that one man’s obedience climaxes in an act of sacrifice and thus leads to extraordinary blessing ... The faithful obedience of Noah culminating in his sacrifices after the flood changed God’s disposition toward sinful humanity. Similarly Abraham’s obedience guaranteed the future of his descendants and that through them blessing should come to all nations.”[^6]
+		
 ## Conclusions:
 - Humanities corruption has spread to the point where it has corrupted the earth itself.
 - God is grieved in his heart to see is good creation become so bad.
 - God is going to save his creation through the flood waters. He is going to wash it clean and restart with a faithful remnant.
+	- #todo accelerate what humanity was already doing to all of creation to create circumstances that would allow for  recreation.
 	- Both salvation through water and a faithful remnant are going to be reoccurring themes in the biblical story.
+- 
+- 
+- "God allows the sacrifice and surrender of the righteous one to somehow compensate or cover for the wickedness of the human heart."[^4]
+	- So Noah is the guy we've been waiting for to set things right, but he doesn't completely fix things.
 
 ### Questions for the future:
-1. 
+1. Still waiting to see how God is going to fix the human heart.
 
 ### Practical things to talk through with the learner:
 - 
@@ -117,3 +104,11 @@
 [^1]: [Yahudah, Abraham S. (2003). Language of the Pentateuch in its Relation to Egyptian. Kessinger Publishing. 205.](https://www.amazon.com/Language-Pentateuch-Relation-Egyptian-Part/dp/0766156648/ref=sr_1_1?crid=1XXDVJJ52YQ82&dib=eyJ2IjoiMSJ9.nmdBHAneQd5fz2k9vE-kmXCxd1Z1mz30JO4YFxq-CXnR8r7VckiU-hpWcKIkoqWoTWFHluBOotyfi2b7Qp02A9LdKKn-wUTD0B2Fewm7h9HO_4o3kvpMihAbfrUgCF-bfoZlPCGDM9y2qUWcUSZFhSP1_jBRqwJ7k9mHOCPq3_T5gf_5el9PP0yV4PRDi3h1x3IMIwTIIWx7exbAGDMs6OhTBIRAJYFOSeNeNOCcFKw.N3zexDLoL1DXKJNf4xqBomI0b6xsCRDiSBVYJJpwQaM&dib_tag=se&keywords=the+languages+of+the+pentateuch&qid=1763945801&sprefix=the+languages+of+the+pentateuch%2Caps%2C97&sr=8-1)
 
 [^2]: [von Rad, Gerhard (1973). Genesis: A Commentary (rev.). Westminster John Knox Press. 128.](https://www.amazon.com/Genesis-Revised-Commentary-Testament-Library/dp/0664209572/ref=sr_1_1?crid=1J5RW2S7CMB5G&dib=eyJ2IjoiMSJ9.45Dd-7rX7sRrRa6vIHPM3DlboZvVfJ3JKu3nXH4J8O8fWwkifmnhxxCVHfQUULpDQB3uUAGWW6PnOc0MCtOqZw.OJUEYsom3X6zPv2XW_L-JRVmPJRyfaCz7uW_tjQ8PQ4&dib_tag=se&keywords=genesis%3A+a+commentary+von+rad&qid=1763948542&sprefix=genesis+a+commentary+von+rad%2Caps%2C131&sr=8-1)
+
+[^3]: [Morales, Michael (2012). The Tabernacle Pre-Figured: Cosmic Mountain Ideology in Genesis and Exodus. Peeters Publishers. 186.](https://www.amazon.com/Tabernacle-Pre-Figured-Mountain-Ideology-Genesis/dp/904292702X/ref=sr_1_1?crid=34SGVT32GA3J7&dib=eyJ2IjoiMSJ9.der4cOMCvEwdv1xfNRGLIQ.GKibWRZrWdpAgO3LYtrR6PYzUE8RB-ZYolcozACNHBw&dib_tag=se&keywords=tabernacle+pre-figured%3A+cosmic+mountain+ideology+in+genesis+and+exodus&nsdOptOutParam=true&qid=1763980557&sprefix=tabernacle+pre-figured+cosmic+mountain+ideology+in+genesis+and+exodus%2Caps%2C101&sr=8-1)
+
+[^4]: [The Bible Project Class Noah to Abraham Session 18](https://bibleproject.com/classroom/noah-to-abraham/sessions/18)
+
+[^5]: [Hawk, L. Daniel (2018). The Violence of the Biblical God: Canonical Narrative and Christian Faith. Eerdmans. 32-33.](https://www.amazon.com/Violence-Biblical-God-Daniel-Hawk/dp/0802872441/ref=sr_1_1?crid=CL94OAIKE8TH&dib=eyJ2IjoiMSJ9.T5wR3fmj6TAjms9NXgFEL06ZmNdN_JUKEImY9L1MrI52WxrVMRUL-S4KPZJPdefZ02YTUzYqDHNfgABLhm9A7nL3B4VVPHf-m9UQC7hDWv5xDNqlVyZWCwgwT5dOPhwvMlk8u15JXCwFjQwLvN0OjIq5TvXTzkMcLKEcHvjp4NwhB8nJkwxYEhIsQlKPu-fo3_OPKDV9C30ah9YRaE96NjHvnCcEVHh3rRJPmq3aVC8.ScAlY6fSDlFSCb93oWqm2-9twT1Pc2wk_S-mo2ztWyo&dib_tag=se&keywords=the+violence+of+the+biblical+god&qid=1763981999&sprefix=the+violence+of+the+biblical+god%2Caps%2C127&sr=8-1)
+
+[^6]: [Wenham, Gordon (1997). “The Akedah: A Paradigm of Sacrifice.” Journal of Biblical Literature, 116 (3). 102.](https://www.jstor.org/stable/3266702)
