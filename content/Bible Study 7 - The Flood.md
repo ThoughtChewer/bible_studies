@@ -1,15 +1,13 @@
 ## Goals:
-- 
+- Read through [[Genesis 6.1-9.17]]
 
-## Read through: [Genesis 6.1-9.19]()
+
+The flood story is big, so we are going to break it into pieces.
+## Read through: [Genesis 6.1-6.22](https://www.biblegateway.com/passage/?search=Genesis%206&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
-
--------------------------------------------------------------------
-- The flood story is big, so we are going to break it into pieces.
-## Read through: [Genesis 6.1-6.22](https://www.biblegateway.com/passage/?search=Genesis%206&version=NASB)
 - Question: 6.1-4 is weird and complex and we'll mostly leave it alone, but we can still learn things from passage we don't understand. For example, does verse 2 sound familiar?
 	- Someone sees something as desirable and takes it.
 	- Reference to [[Genesis 3.1-3.24]]. Regardless of what this all means, its talking about something that went very wrong because someone wanted to take matters into their own hands instead of trusting God.
@@ -52,6 +50,10 @@
 		- [[Genesis 1.1-2.3]]
 		- Clue for what is to come.
 ## Read through: [Genesis 7.1-7.24](https://www.biblegateway.com/passage/?search=Genesis%207&version=NASB)
+- Question: Big picture, what is happening in this story?
+	- Just let them talk.
+- Question: What are interesting things that you noticed?
+	- Just let them talk.
 - Question: In 7.1 God says that he has seen Noah to be righteous. What does this passage show us about Noah to help us understand what it looks like to be righteous?
 	- Noah walked with God 6.9
 	- Noah simply obeyed everything that God asked him. 6.22
@@ -67,6 +69,10 @@
 		- Creatures are dying and land is covered by water.
 		- “Mabbul does not mean ‘flood,’ ‘inundation,’ or even ‘destruction,’ but it is a technical term for a part of the world structure, namely, the heavenly ocean. This heavenly sea, which is above the firmament (raqia‘), empties downward through latticed windows (Gen. 7:11). Here we have the same realistic and cosmological ideas as in Gen. ch. 1 ... [T]he Flood, therefore, is a catastrophe involving the entire cosmos. When the heavenly ocean breaks forth upon the earth below, and the primeval sea beneath the earth, which is restrained by God, now freed from its bonds, gushes up through yawning chasms onto the earth, then there is a destruction of the entire cosmic system according to biblical cosmogony. The two halves of the chaotic primeval sea, separated—the one up, the other below—by God’s creative government (ch. 1:7-9), are again united; creation begins to sink again into chaos. Here the catastrophe, therefore, concerns not only men and beasts ... but the earth (chs. 6:13; 9:11)—indeed, the entire cosmos.”[^2]
 ## Read through: [Genesis 8.1-9.19](https://www.biblegateway.com/passage/?search=Genesis%208.1-9.19&version=NASB)
+- Question: Big picture, what is happening in this story?
+	- Just let them talk.
+- Question: What are interesting things that you noticed?
+	- Just let them talk.
 - Question: What does this part of the story sound like?
 	- This is re-creation
 		- Waters are separated, land appears, plants on the land, and creatures on the land.
