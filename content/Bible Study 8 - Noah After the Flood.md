@@ -17,9 +17,14 @@
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
 
+- Ham did something terrible to Noah.
+	- Some debate as to the specifics, but it was an intense and disgraceful sexual act. It was an attempt at establishing dominance over the group.
+- Noah's response also results in tragedy.
+	- Noah takes the place of God and curses Ham's descendants.
+	- Noah's curse and blessings play out over the rest of the old testament.
+- Ham has become the seed of the serpent.
 ## Conclusions:
-- 
-
+- As we've seen multiple times, when people try to take the place of God it ends in tragedy.
 ### Questions for the future:
 1. 
 
