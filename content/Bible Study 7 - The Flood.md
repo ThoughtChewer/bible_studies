@@ -2,7 +2,7 @@
 - Read through [[Genesis 6.1-9.17]]
 
 
-The flood story is big, so we are going to break it into pieces.
+The flood story is big, so we are going to break it into pieces. #todo should this be broken into multiple studies?
 ## Read through: [Genesis 6.1-6.22](https://www.biblegateway.com/passage/?search=Genesis%206&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.
@@ -78,6 +78,15 @@ The flood story is big, so we are going to break it into pieces.
 		- Waters are separated, land appears, plants on the land, and creatures on the land.
 		- The Hebrew word for wind is [rûaḥ](https://www.blueletterbible.org/lexicon/h7307/nasb20/wlc/0-1/). This is also the same word used in [[Genesis 1.1-2.3]] when God's "spirit" hovered over the waters.
 		- First day of the year.
+- Question: In [[Bible Study 3 - Adam and Eve]], we talked about Adam being put in the garden to be God's priest and not just someone to tend the fields. Do we have any indication that Noah is a priest since he represents the new Adam in this new creation?
+	- He knows the difference between clean and unclean animals which is important for making sacrifices.
+	- He knows how to sacrifice an animal to God and which sacrifice to do.
+		- There are two kinds of sacrifices:
+			- [minḥâ](https://www.blueletterbible.org/lexicon/h4503/nasb20/wlc/0-1/) where you give part of the animal to God, and the rest you throw a feast with. e.g. [[Genesis 4.1-4.26]]
+			- [ʿōlâ](https://www.blueletterbible.org/lexicon/h5930/nasb20/wlc/0-1/) where you give everything to God.
+		- Noah uses the ola here.
+			- "[ola] offering is the total surrender of a precious substitute who ascends before God’s heavenly temple as a righteous and blameless representative to appeal to God on behalf of the offerer. In Noah’s case, he is already a righteous and blameless person, but his offering is not just for him but for all creation and all humanity yet to be born. The result of Noah’s sacrifice is made more clear by recognizing the hyperlinks back to the opening of the flood story. In Genesis 6:5-6, God states his reasons for bringing the flood."[^4]
+	- Noah is performing priestly duties on behalf of others.
 - Question: What causes God's change of heart?
 	- The flood has completed and new creation has happened, but the problem still remains. Humans are still the same creatures as they were before and Noah is the only righteous one.
 	- God changes when he smells Noah's sacrifice.
@@ -89,7 +98,16 @@ The flood story is big, so we are going to break it into pieces.
 	- So God is going to change his strategy and have mercy on humanity as he finds a different way to fulfill his purpose through humanity.
 	- But something did change with Noah's sacrifice.
 		- “But it is not simply that an extraordinary act of obedience by a righteous man [Abraham] leads to extraordinary blessing. It is that one man’s obedience climaxes in an act of sacrifice and thus leads to extraordinary blessing ... The faithful obedience of Noah culminating in his sacrifices after the flood changed God’s disposition toward sinful humanity. Similarly Abraham’s obedience guaranteed the future of his descendants and that through them blessing should come to all nations.”[^6]
-		
+- Question: Do you know how covenants work?
+	- Its an agreement between two parties: The greater and the lesser.
+	- It is the lesser's responsibility to remind the greater of their agreement.
+- In this covenant God is the greater, but he takes the responsibility on himself to remember.
+- This covenant is God's first step in establishing how he is going to work through humanity in spite of our mess.
+	- God has officially made us partners.
+	- The covenant applies to all future generations, including you.
+	- While this covenant might be really one sided, the relationship between man and God is not.
+		- Noah brought comfort to mankind by removing the curse.
+		- Noah also brought comfort to God through his actions: obedience and the sacrifice.
 ## Conclusions:
 - Humanities corruption has spread to the point where it has corrupted the earth itself.
 - God is grieved in his heart to see is good creation become so bad.
