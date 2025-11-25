@@ -37,11 +37,20 @@
 		- Nimrod
 		- 10.10 - The beginning of Nimrod's kingdom was Babel... in the land of Shinar
 - - Babel is Babylon
-	- New architype built off city idea from previous stories.\
+	- New architype built off city idea from previous stories.
+	- rebel against god -->nimrod
+		- Want to make a name for themselves
+		- Don't want to be scattered
+		- Protection?
+		- Call back to [[Genesis 4.1-4.26]], Cain goes East and builds a city
 - 
 - Story picks up when Shem again, but this time the tree breaks at Eber and goes down Peleg
 	- Seed of the woman or seed of the snake
 	- We've seen seed of the snake, show me seed of the woman
+- a
+- a
+- Shem means name, mixed with two descendants who want to make a name in different ways
+- Moving eastward = rebellion from God
 ## Conclusions:
 - 
 
