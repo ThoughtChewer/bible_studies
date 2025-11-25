@@ -1,7 +1,9 @@
 ## Goals:
 - Read through [[Genesis 10.1-10.32]]
+- Read through [[Genesis 11.1-11.32]]
 
-## Read through: []()
+#todo combine Gen 10 and 11?
+## Read through: [Genesis 10.1-10.32](https://www.biblegateway.com/passage/?search=Genesis%2010&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
@@ -17,6 +19,29 @@
 		- great warrior
 	- Name means we will rebel
 - "according to their languages" 
+
+- 70 nations listed
+	- 70 represents complete
+	- all nations represented and have their origins in Noah.
+	- #todo Abraham also has 70 descendants at the end of genesis
+- descendants of shem split after Eber 
+	- 10.21 shem's thing starts with father of children of Eber -->
+		- Genealogy goes down one son of Eber and goes down the tree of Joktan then there is a story
+
+
+## Read through: [Genesis 11.1-11.32](https://www.biblegateway.com/passage/?search=Genesis%2011&version=NASB)
+- 10.5 "separated into their lands, everyone according to his language"
+	- 11.1 is telling you that this is before that happened.
+- 11.2
+	- Story is in the land of Shinar. Who has the bible told us is in Shinar?
+		- Nimrod
+		- 10.10 - The beginning of Nimrod's kingdom was Babel... in the land of Shinar
+- - Babel is Babylon
+	- New architype built off city idea from previous stories.\
+- 
+- Story picks up when Shem again, but this time the tree breaks at Eber and goes down Peleg
+	- Seed of the woman or seed of the snake
+	- We've seen seed of the snake, show me seed of the woman
 ## Conclusions:
 - 
 

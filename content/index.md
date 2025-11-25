@@ -14,7 +14,6 @@ title: Bible Study Series
 - [[Bible Study 7 - The Flood]]
 - [[Bible Study 8 - Noah After the Flood]]
 - [[Bible Study 9 - Characters in the Biblical Story]]
-- Beginnings of Babylon
 - Abraham
 - The Exodus
 - Leviticus, Numbers, Deuteronomy
