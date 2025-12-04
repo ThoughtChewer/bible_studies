@@ -28,7 +28,10 @@
 	- If you do not understand how bible translations are created I encourage you to read [[Bible Study Appendix B - Bible Translations]]. Its a short blurb on the subject which will be helpful background information as you start to engage with Hebrew words in the study.
 		- I have decided to link all the verses to the NASB version on biblegateway.com for convenience and consistency.
 		- A few times I link to other version because they format the text in helpful ways, like a poetry block.
-- You don't have to have all the answers.
+- You are the tour guide, not the expert. Let the bible do the work.
+	- It is your job to highlight important things and to facilitate navigating the stories.
+	- The biblical story will challenge the learner and bring to the surface things to be meditated on.
+	- Questions are going to come up that you don't know the answer to, and it is ok to say that "I don't know" or "I haven't thought about that yet."
 	- We are all on a journey of understanding, and we will never have all the answers.
 	- Its a lot easier to say "I'm not sure" or "I haven't thought about that yet" if you don't paint yourself as the expert.
 - Spend time with the learner outside of bible studies and church activities.
@@ -40,8 +43,6 @@
 	- Allowing the learner the chance to work to discover things is going to cause the information to stick with them more than if you spoon feed it to them.
 	- Part of how you understand passages in the bible is when the authors reference previous passages with later passages. Thinking about how the passages parallel or invert each other sheds light on the meaning of both passages. But it takes time to flip back and forth and think about that.
 	- If the learner has questions about future topics, it is ok to say we will address that later. Going through the material will shape how we think about the topics. So, your understanding and question might change by the time we get there.
-- If this is your first time through the series <u>__DO NOT__</u> go into a study without going through the material before hand by yourself.
-	- This stuff is complicated. You're going to want to make sure that you understand it and can talk through the points effectively with the learner.
 - Each study covers a section of the story.
 	- There is no intended time length for a single study. Some are going to be longer than others.
 - Structure of each study (after [[Bible Study 1 - Introduction]])
@@ -61,7 +62,7 @@
 				- That being said, part of what Genesis 1-11 does is repeat patterns and stories. So part of this process is baked in for you already. You just have to help them connect the dots.
 		- I have suggestions here, but you are probably going to have different things to talk through based on where the learner is at. We all have different starting places  on this journey and gaps in our understanding.
 ## Structure of the series
-- The core studies tries to keep material covered to a minimum while giving the learner the full context for Jesus.
+- The core studies tries to keep material covered to a minimum while giving the learner enough tools and context to understand Jesus.
 - Frequently, there are other topics that are helpful to engage in with a learner for their specific situation or interest level that are outside the scope of the core series. Supplementary studies are there to support this effort.
 ### Core
 - Genesis 1-11

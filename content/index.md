@@ -14,13 +14,15 @@ title: Bible Study Series
 - [[Bible Study 7 - The Flood]]
 - [[Bible Study 8 - Noah After the Flood]]
 - [[Bible Study 9 - Characters in the Biblical Story]]
-- Abraham
-- The Exodus
-- Leviticus, Numbers, Deuteronomy
-- David
-- Prophets
-- Jesus
-- Acts
+- [[Bible Study 10 - Abraham]]
+- [[Bible Study 30 - Exodus]]
+- [[Bible Study 31 - Leviticus]]
+- [[Bible Study 32 - Numbers]]
+- [[Bible Study 33 - Deuteronomy]]
+- [[Bible Study 34 - David]]
+- [[Bible Study 35 - Prophets in Exile]]
+- [[Bible Study 36 - Jesus]]
+- [[Bible Study 37 - Acts]]
 
 ## Supplementary Studies
 - #todo 

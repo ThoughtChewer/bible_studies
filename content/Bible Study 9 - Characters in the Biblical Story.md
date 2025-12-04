@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 10.1-10.32]]
-- Read through [[Genesis 11.1-11.32]]
+- Read through [[Genesis 11.1-11.26]]
 
 Based on the cycle we're expecting to see some chosen, not chosen, cosmic rebellion, and re-creation / blessings.
 ## Read through: [Genesis 10.1-10.32](https://www.biblegateway.com/passage/?search=Genesis%2010&version=NASB)
@@ -35,7 +35,7 @@ Based on the cycle we're expecting to see some chosen, not chosen, cosmic rebell
 - Every time there is a rebellion against God, the people involved go east
 	- [Genesis 3.24, 4.16](https://www.biblegateway.com/passage/?search=Genesis%203.24%2C%204.16%2C%20&version=NASB) , and chapter 11.
 
-## Read through: [Genesis 11.1-11.32](https://www.biblegateway.com/passage/?search=Genesis%2011&version=NASB)
+## Read through: [Genesis 11.1-11.26](https://www.biblegateway.com/passage/?search=Genesis%2011.1-26&version=NASB)
 - 11.1 is telling us that this story happens before 10.5 "separated into their lands, everyone according to his language"
 - 11.2
 	- Story is in the land of Shinar. Who has the bible told us is in Shinar?
