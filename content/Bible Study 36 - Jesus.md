@@ -9,6 +9,7 @@
 
 
 ## Tentative plan #todo 
+- Road to Emmaus?
 - Have to decide matthew or luke
 	- Leaning towards luke for continuity with acts
 - Origins
