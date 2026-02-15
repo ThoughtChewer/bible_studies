@@ -3,6 +3,7 @@
 
 
 The flood story is big, so we are going to break it into pieces. #todo should this be broken into multiple studies?
+#todo Add notes from Abraham session 3
 ## Read through: [Genesis 6.1-6.22](https://www.biblegateway.com/passage/?search=Genesis%206&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.

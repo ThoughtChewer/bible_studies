@@ -14,7 +14,7 @@ title: Bible Study Series
 - [[Bible Study 7 - The Flood]]
 - [[Bible Study 8 - Noah After the Flood]]
 - [[Bible Study 9 - Characters in the Biblical Story]]
-- [[Bible Study 10 - Abraham]]
+- [[Bible Study 29 - Abraham]]
 - [[Bible Study 30 - Exodus]]
 - [[Bible Study 31 - Leviticus]]
 - [[Bible Study 32 - Numbers]]

@@ -2,7 +2,9 @@
 - Read through [[Genesis 10.1-10.32]]
 - Read through [[Genesis 11.1-11.26]]
 
-Based on the cycle we're expecting to see some chosen, not chosen, cosmic rebellion, and re-creation / blessings.
+## Setup
+- Question: Based on the previous passage, what do you expect to read in this passage?
+	- Based on the cycle we're expecting to see some chosen, not chosen, and cosmic rebellion.
 ## Read through: [Genesis 10.1-10.32](https://www.biblegateway.com/passage/?search=Genesis%2010&version=NASB)
 - Question: Big picture, what is happening in this story?
 	- Just let them talk.
@@ -28,6 +30,7 @@ Based on the cycle we're expecting to see some chosen, not chosen, cosmic rebell
 	- In 10.25 when it talks about why Eber named Peleg, [Peleg](https://www.blueletterbible.org/lexicon/h6389/nasb20/wlc/0-1/) literally means division in Hebrew.
 		- We know that Shem is the line that God is going to focus on in the biblical story, but Peleg tells us there is a division between him and his brother.
 - Question: We are expecting a "chosen" and "not chosen", but which is Peleg and which is Joktan? And how do you know?
+	- #todo leave as a mystery till after reading 11? If so, move discussion to next section. Sometimes the authors leave us waiting, not bad to let the learner experience that.
 	- Joktan is "not chosen". The clue is that Joktan settled in the east.
 		- We haven't talked about it yet, but the learner may have picked up on it (discussion below).
 	- If they don't get it have them read [Genesis 11.1-2](https://www.biblegateway.com/passage/?search=Genesis%2011.1-2&version=NASB).

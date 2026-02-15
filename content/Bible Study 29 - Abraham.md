@@ -14,7 +14,12 @@
 	- See how God stays faithful
 	- See Abraham, full of faith and an utter failure
 	- See long term effects from decisions made by an individual
-
+- Structure
+	- Genesis 11.27-14.24
+	- Genesis 15.1-17.27
+	- Genesis 18.1-19.38
+	- Genesis 20.1-22.19
+		- 
 ## Conclusions:
 - 
 
