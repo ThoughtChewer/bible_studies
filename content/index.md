@@ -16,7 +16,7 @@ title: Bible Study Series
 - [[Bible Study 9 - Characters in the Biblical Story]]
 - [[Bible Study 29 - Abraham]]
 - [[Bible Study 30 - Exodus]]
-- [[Bible Study 31 - Leviticus]]
+- [[Bible Study 31 - Post Sini story]]
 - [[Bible Study 32 - Numbers]]
 - [[Bible Study 33 - Deuteronomy]]
 - [[Bible Study 34 - David]]

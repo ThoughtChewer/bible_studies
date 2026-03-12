@@ -10,10 +10,14 @@
 
 ## Tentative plan #todo 
 - Its important, but can just hit the highlights
+- Cycle of laws followed by failure of the people
+- Culminates in Deut Moses saying that the people will need new hearts
+- Lev
+	- atonement, purification --> for understanding Jesus' sacrifice
 - Bible Project summary as temporary solution
-	- https://www.youtube.com/watch?v=q5QEH9bH8AU
-
-
+	- Leviticus https://www.youtube.com/watch?v=IJ-FekWUZzE
+	- Numbers https://www.youtube.com/watch?v=tp5MIrMZFqo
+	- Deuteronomy https://www.youtube.com/watch?v=q5QEH9bH8AU
 ## Conclusions:
 - 
 

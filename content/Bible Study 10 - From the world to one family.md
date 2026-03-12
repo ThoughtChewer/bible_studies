@@ -1,6 +1,5 @@
 ## Goals:
 - 
-
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
 	- The last passage was a repeat of the flood narrative and the chosen line genealogy. So in this passage we would expect a re-creation story
