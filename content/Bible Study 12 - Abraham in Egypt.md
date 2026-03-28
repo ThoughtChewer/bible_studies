@@ -10,7 +10,7 @@
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
 - - Question: Why does Abram go to Egypt?
-	- He is in the land that God has promised to give him and his descendants.
+	- He was in the land that God has promised to give him and his descendants.
 	- Egypt is a descendant of Ham ([[Genesis 10.1-10.32|Genesis 10.6]] [Mizraim](https://www.blueletterbible.org/lexicon/h4714/nasb20/wlc/0-1/) means Egypt in Hebrew).
 	- We just left Babylon, also a descendant of Ham, to go to the promised land.
 	- Abram doesn't trust that God is going to provide for him, so he takes matters into his own hands.

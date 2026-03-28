@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 13.1-13.18]]
-- Answer question #1 from [[Bible Study 12 - Abraham in Egypt]]
+- Answer question 1 from [[Bible Study 12 - Abraham in Egypt]]
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
@@ -28,7 +28,9 @@
 	- Yes! He has separated from his family and is in the land God commanded him to go.
 	- Has something changed in Abram? Potentially.
 - Question: What is happening in verses 14-18? (Think about the cycle)
-	- Someone walked with God, was blessed by God, and built something for God with temple imagery sound familiar? Ref: [[Genesis 6.1-9.17|Genesis 6.13-22]]
+	- Someone walked with God, was blessed by God, and built something for God with temple imagery sound familiar? 
+	- Length and width are strange terms to apply to a bunch of land. 
+		- Ref: [[Genesis 6.1-9.17|Genesis 6.13-22]]
 ## Conclusions:
 - Both times where Abram didn't trust God enough to follow his commands and he decided to do something that seemed wise to him have culminated in this problem.
 - God seems to let Abram suffer the consequences of his actions.
