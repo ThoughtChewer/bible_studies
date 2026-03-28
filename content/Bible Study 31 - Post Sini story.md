@@ -11,9 +11,17 @@
 ## Tentative plan #todo 
 - Its important, but can just hit the highlights
 - Cycle of laws followed by failure of the people
+- God
+	- Exodus 34.6
+	- https://www.youtube.com/watch?v=TeQ1nq_YJD0
+- wilderness
+	- https://www.youtube.com/watch?v=b54d_GhBthI
 - Culminates in Deut Moses saying that the people will need new hearts
 - Lev
 	- atonement, purification --> for understanding Jesus' sacrifice
+- Reading the law video
+	- How to engage with weird story + old instructions
+	- https://www.youtube.com/watch?v=Sew1kBIe-W0
 - Bible Project summary as temporary solution
 	- Leviticus https://www.youtube.com/watch?v=IJ-FekWUZzE
 	- Numbers https://www.youtube.com/watch?v=tp5MIrMZFqo

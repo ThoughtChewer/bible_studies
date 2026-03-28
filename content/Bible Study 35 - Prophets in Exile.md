@@ -11,6 +11,8 @@
 ## Tentative plan #todo 
 - Cover Israel from David to exile
 	- quick summary
+	- https://www.youtube.com/watch?v=edcqUu_BtN0
+- 
 - Set the stage for Jesus
 	- Prophets message to Israel
 	- Post exile summary

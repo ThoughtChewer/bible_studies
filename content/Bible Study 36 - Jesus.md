@@ -13,6 +13,7 @@
 - Have to decide matthew or luke
 	- Leaning towards luke for continuity with acts
 - Origins
+- baptism call back to gen 1, creation,  and salvation through water?
 - Kingdom of God passages
 - the last supper
 - the cross

@@ -24,8 +24,12 @@
 	- There are some elements there, but this feels very wrong from what it is supposed to be
 - Chaldeans:
 	- Chaldeans = Babylon
-	- Babylon tends to invert God's creation (same way it did at the tower of Babel in [[Genesis 11.1-11.26|Gen 11.1-9]]).
-- Question: What happens that turns the story around and gets us back on track?
+- Question: If you contrast the two stories what can you take away from it?
+	- Babylon tends to invert God's creation the same way it did at the tower of Babel in [[Genesis 11.1-11.26|Gen 11.1-9]].
+	- #todo clean this up
+	- As the stories repeat themselves they evolve to add new layers to the story and with each layer additional lessons to be learned.
+	- Learning to spot parallel stories and compare / contrast them is going to be a very helpful skill when reading the bible.
+- Question: What happens that turns the story around and gets us back on track? #todo remove question? though keep point #2?
 	- God speaking. Its the same way that God started to change things in [[Genesis 1.1-2.3|Genesis 1]].
 	- This is also the turning point in the story in a structural sense. It goes from God and all of humanity to a focus on one family that God has chosen to bless all of humanity through.
 - Question: Does Abram obey God?

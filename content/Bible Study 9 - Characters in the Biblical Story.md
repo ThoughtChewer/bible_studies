@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 10.1-10.32]]
-- Read through [[Genesis 11.1-11.26]]
+
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
@@ -38,27 +38,7 @@
 - Every time there is a rebellion against God, the people involved go east
 	- [Genesis 3.24, 4.16](https://www.biblegateway.com/passage/?search=Genesis%203.24%2C%204.16%2C%20&version=NASB) , and chapter 11.
 
-## Read through: [Genesis 11.1-11.26](https://www.biblegateway.com/passage/?search=Genesis%2011.1-26&version=NASB)
-- 11.1 is telling us that this story happens before 10.5 "separated into their lands, everyone according to his language"
-- 11.2
-	- Story is in the land of Shinar. Who has the bible told us is in Shinar?
-		- Nimrod
-		- 10.10 - The beginning of Nimrod's kingdom was Babel... in the land of Shinar
-- Babel is Babylon
-	- New architype built off city idea from previous stories.
-	- rebel against god -->nimrod
-		- Want to make a name for themselves
-		- Don't want to be scattered
-		- Protection?
-		- Call back to [[Genesis 4.1-4.26]], Cain goes East and builds a city.
-- Story picks up when Shem again, but this time the tree breaks at Eber and goes down Peleg
-	- Seed of the woman or seed of the snake
-	- We've seen seed of the snake, show me seed of the woman
-- a
-- a
-- Shem means name, mixed with two descendants who want to make a name in different ways
-- Moving eastward = rebellion from God
-- 
+
 ## Conclusions:
 - 
 
