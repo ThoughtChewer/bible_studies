@@ -1,9 +1,9 @@
 ## Goals:
 - Read through [[Genesis 3.1-3.24]]
-- Answer questions 2, 3, and 4 from [[Bible Study 2 - Creation#Questions for the future]]
+- Answer questions 2, 3, and 4 from [[Bible Study 2 - Creation#Questions for the future|Bible Study 2]]
 	- Continue to develop the relationship between humanity and God.
 	- Help the learner see the connections with the imagery that biblical authors use.
-- Answer questions 1, 2, 4, and 5 from [[Bible Study 3 - Adam and Eve#Questions for the future]]
+- Answer questions 1, 2, 4, and 5 from [[Bible Study 3 - Adam and Eve#Questions for the future|Bible Study 3]]
 	- Setup the conflict for the rest of the bible.
 	- Show structure for the Adam and Eve story, and how the imagery links all the stories together.
 - Introduce larger biblical structures (bigger than one story)

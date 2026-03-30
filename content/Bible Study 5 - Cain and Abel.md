@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 4.1-4.26]]
-- Answer questions 3 from [[Bible Study 3 - Adam and Eve#Questions for the future]]
+- Answer questions 3 from [[Bible Study 3 - Adam and Eve#Questions for the future|Bible Study 3]]
 - Continue larger biblical structures (connecting stories together)
 - Continue archetypes
 

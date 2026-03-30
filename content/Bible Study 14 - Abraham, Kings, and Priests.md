@@ -1,7 +1,7 @@
 ## Goals:
 - Read through [[Genesis 14.1-14.24]]
-- Answer questions 1 and 2 from [[Bible Study 13 - Abram and Lot#Questions for the future]]
-- Answer question 2 from [[Bible Study 7 - The Flood#Questions for the future]]
+- Answer questions 1 and 2 from [[Bible Study 13 - Abram and Lot#Questions for the future|Bible Study 13]]
+- Answer question 2 from [[Bible Study 7 - The Flood#Questions for the future|Bible Study 7]]
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?

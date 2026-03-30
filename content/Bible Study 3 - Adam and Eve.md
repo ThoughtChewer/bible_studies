@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 2.4-2.25]].
-- Answer questions 1 and 2 from [[Bible Study 2 - Creation#Questions for the future]]
+- Answer questions 1 and 2 from [[Bible Study 2 - Creation#Questions for the future|Bible Study 2]]
 	- Learn about fundamental condition of humanity.
 	- Continue to develop the relationship between humanity and God.
 ## Read through [Genesis 2.4-2.25](https://www.biblegateway.com/passage/?search=Genesis%202.4-2.25&version=NASB)
