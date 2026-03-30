@@ -14,6 +14,7 @@ The flood story is big, so we are going to break it into pieces. #todo should th
 	- Reference to [[Genesis 3.1-3.24]]. Regardless of what this all means, its talking about something that went very wrong because someone wanted to take matters into their own hands instead of trusting God.
 	- Because we found the reference we are able to understand part of the passage.
 	- #todo insert discussion of 6.1-4 here?
+	- #todo [Nephilim](https://www.blueletterbible.org/lexicon/h5303/nasb20/wlc/0-1/) are giants, not important yet, but will be important to remember.
 - 6.1 Humanity has multiplied like what God commanded them to do [[Genesis 1.1-2.3|Genesis 1.28]], but then you hit 6.2 and realize that this isn't what God wanted. It's been tainted.
 - Question: If you look at 6.5 and 6.11, does it sound familiar?
 	- Reference to [[Genesis 4.1-4.26]]
@@ -123,6 +124,7 @@ The flood story is big, so we are going to break it into pieces. #todo should th
 
 ### Questions for the future:
 1. Still waiting to see how God is going to fix the human heart.
+2. Why are giants important?
 
 ### Practical things to talk through with the learner:
 - 

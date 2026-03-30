@@ -1,6 +1,6 @@
 ## Goals:
 - Read through [[Genesis 13.1-13.18]]
-- Answer question 1 from [[Bible Study 12 - Abraham in Egypt]]
+- Answer question 1 from [[Bible Study 12 - Abraham in Egypt#Questions for the future]]
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
