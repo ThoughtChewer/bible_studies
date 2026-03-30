@@ -19,11 +19,11 @@
 	- He sees land that looks desirable to him because it looks like both Eden and Egypt.
 		- Egypt is similar to Babylon in that it inverts Gods creation. 
 			- #todo did we make this link yet between Egypt and Babylon for archetypes?
-		- So if Lot things that Egypt and Eden look similar, he is relying on his own wisdom.
+		- So if Lot thinks that Egypt and Eden look similar, he is relying on his own wisdom.
 	- He moves eastward to a city.
 		- He is not the chosen brother.
-- Question: What do you expect is going to happen to Lot based on what you know so far?
-	- We'll have to wait and find out.
+- Question: What do you expect is going to happen to the area around Zoar and Sodom where Lot settled?
+	- Zoar and Sodom are now linked to Babylon in [[Genesis 11.1-11.26]]. So we should expect a flood to follow.
 - Question: Did Abram finally Obey God?
 	- Yes! He has separated from his family and is in the land God commanded him to go.
 	- Has something changed in Abram? Potentially.
@@ -37,7 +37,7 @@
 - When we don't trust God, we can mistake Eden for Egypt.
 
 ### Questions for the future:
-1. What happens to Lot?
+1. What happens to the region where Lot settled?
 2. Has Abram changed?
 3. Abram got something else while in Egypt, is that also going to become a problem?
 

@@ -12,7 +12,8 @@
 - Cover Israel from David to exile
 	- quick summary
 	- https://www.youtube.com/watch?v=edcqUu_BtN0
-- 
+- link to [[Bible Study 14 - Abraham, Kings, and Priests]]
+	- King of shinar and king of elam are floods against. One for Israel and one to free Israel
 - Set the stage for Jesus
 	- Prophets message to Israel
 	- Post exile summary
