@@ -18,6 +18,10 @@
 - the last supper
 - the cross
 - resurrection
+
+- redemption
+	- https://youtu.be/uib2G8GkG60?si=Ds9-AfM12Up5xvk6
+- Jesus talks in a similar fashion to the Hebrew writers of the OT. They will say things in such a way that if you know what to look for and are looking for it, you'll see if. But if either of those aren't true, you'll miss it. Ref [[Genesis 11.27-12.9]] as an example.
 ## Conclusions:
 - 
 

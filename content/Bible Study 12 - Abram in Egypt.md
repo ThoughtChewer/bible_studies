@@ -39,6 +39,7 @@
 
 ## Conclusions:
 - The cycle continues: God wants to bless humans, but instead of trusting God they build their own solutions, and as a result vulnerable people are harmed.
+	- Abram takes the vulnerable Sarai and uses her to protect himself.
 - When the stories repeat, roles can change to show complex dynamics of the story to the reader. Additionally, characters can even change roles mid story (e.g. Pharaoh goes from Eve to God in this one.)
 - In the same way that God wants to partner with us and work through us to accomplish his plan, frequently the biblical authors will show God acting through people (and just not mention it), like Pharaoh in this passage.
 

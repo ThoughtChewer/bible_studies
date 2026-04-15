@@ -11,6 +11,9 @@
 ## Tentative plan #todo 
 - Read the whole book
 - Talk about it
+- Acts 2
+	- undoing of tower of babel, all nations belong to God and he is reclaiming them. Geography names important. First Jew then Gentile.
+		- https://www.youtube.com/watch?v=YuW83f9uUbY
 ## Conclusions:
 - 
 

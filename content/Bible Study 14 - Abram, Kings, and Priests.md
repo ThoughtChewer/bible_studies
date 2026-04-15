@@ -31,7 +31,7 @@
 		- The [Rephaim](https://www.blueletterbible.org/lexicon/h7497/nasb20/wlc/0-1/) were a group of people who are giants as well as the others listed.
 			- [[Deuteronomy 2]] and [[Deuteronomy 3]] have some more details about them if you want to look.
 			- "Superhuman warriors who spread violence in the land  were the heroes of Babylonian and Canaanite culture, but in the biblical vision, they represent everything that's wrong with the human family."[^1]
-		- Where was the last place we read about Giants? Right before the flood, in [[Genesis 6.1-9.17|Genesis 6]].
+			- Where was the last place we read about Giants? Right before the flood, in [[Genesis 6.1-9.17|Genesis 6]].
 	- Then we have the 5 Canaanite Kings who are also defeated by the 4 kings, and their names give you some insight into who they are:
 		- [Bera](https://www.blueletterbible.org/lexicon/h1298/nasb20/wlc/0-1/) means son of evil.
 			- We were just told in [[Genesis 13.1-13.18|Genesis 13.13]] that the people of Sodom were sinning greatly.
@@ -42,22 +42,49 @@
 		- Some of the names are a bit odd, but in general you get the sense that these are not good people.
 	- So these 4 kings have come down and destroyed the evil people who live in the land promised to Abram.
 - Question: Who survives the flood?
-	- The people hanging out with Abram in his "ark", Mamre, Eshcol, and Aner.
-	- All 3 of them are Amorites who did not get wiped out with the rest of the Amorites because they joined Abram in God's temple.
-	- The blessing of [[Genesis 11.27-12.9|Genesis 12]] are already happening where people on earth are being blessed through Abram.
-- 
-
+	- The people who allied with Abram in his "ark", Mamre, Eshcol, and Aner.
+	- All 3 of them are Canaanites who did not get wiped out with the rest of the Canaanites because they joined Abram in God's temple.
+	- The blessing of [[Genesis 11.27-12.9|Genesis 12]] is already happening where people on earth are being blessed through Abram.
+		- Not only were they saved, but they also gained spoils of war from their victory.
+- Question: Why does Abram leave the safety of his "ark" to go after the 4 kings? 
+	- He leaves to rescue people. 
+	- He doesn't even keep the spoils of war that he gains.
+	- Abram does to the 4 Mesopotamian kings what they did to the giants, and the reasons for it are completely counter-cultural to how the surrounding people acted. 
+		- See quote about the Raphiam above and the note about Nimrod in [[Bible Study 9 - Characters in the Biblical Story]].
+- Question: Who is Melchizedek?
+	- He is the king of Salem
+		- [Salem](https://www.blueletterbible.org/lexicon/h8004/nasb20/wlc/0-1/) means peace in Hebrew.
+		- This is also the same city as Jerusalem later in the bible.
+	- He is the first official royal priest we've seen.
+		- Adam and Eve were royal priests, but that was implied and this is explicitly stated.
+		- He is not from the chosen line (at least from what the text tells us).
+	- From a narrative perspective, he is God's representative in the story.
+		- He shows God's generosity by freely giving Abram food and blessing.
+		- He illuminates some of God's working in the story that was previously left unstated.
+			- How did Abram win against the giant slaying warrior kings? --> Because God made it so.
+		- He stands in stark contrast to the king of Sodom at the end of the story.
+			- King of peace vs king of evil
+			- gives freely vs "give me" and gifts with strings attached
+- Question: Has Abram changed?
+	- Yes!
+	- Instead of putting the vulnerable at risk to save himself like he did in [[Genesis 12.10-12.20]], he does the opposite by leaving the safety of the ark and rescuing Lot.
+	- He learned his lesson about ill-gotten gains in Egypt and refused the possessions of Sodom.
 ## Conclusions:
-- #todo romans 4 and 5 talk about Abraham, might be relevant for framing
-- God has started to use not just his chosen people, but also others, 4 Mesopotamian kings, to do his will.
+- Just because the story doesn't explicitly say that God did something, doesn't mean that God isn't working.
+- God has started to use not just his chosen people, but also others, e.g. 4 Mesopotamian kings, to do his will.
 	- Kings are now potential representatives of God's judgement through a "flood"
 - God will use his chosen people to provide salvation for everyone, but its on God's terms not theirs.
 	- You have to come into God's presence to escape the flood.
+- This is the first full cycle that is repeated in the Abram story.
+	- Many of the stories look very different than the originals, but if you dig into them, there are pieces there to link the stories together.
+	- This is the importance for knowing the context for the story you area reading and knowing how to link imagery together, otherwise you'll miss the point of the story.
 
 ### Questions for the future:
-1. 
+1. Abram's men numbering 318 seems like a really weird detail.
+2. What's going on with this Melchizedek character?
 
 ### Practical things to talk through with the learner:
-- 
+- #todo talk about God working through people in both good and bad events
+- #todo talk about God's relationship with humanity --> God has created a space for you to be with him, but you have to go to it.
 
-[^1]: [The Bible Project - Class Abraham - Session 9](https://bibleproject.com/classroom/abraham/sessions/9)]
+[^1]: [The Bible Project - Class Abraham - Session 9](https://bibleproject.com/classroom/abraham/sessions/9)

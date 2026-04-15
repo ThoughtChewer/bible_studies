@@ -13,7 +13,10 @@
 	- Quick description, maybe a highlight passage or two
 - Transition to kings
 - Covenant with David
-
+- a
+- 1 Samuel 12.13-15, 19-20
+	- Want a human instead of a calf (from sini)
+	- 
 ## Conclusions:
 - 
 
