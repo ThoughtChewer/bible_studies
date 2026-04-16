@@ -19,6 +19,8 @@ title: Bible Study Series
 - [[Bible Study 12 - Abram in Egypt]]
 - [[Bible Study 13 - Abram and Lot]]
 - [[Bible Study 14 - Abram, Kings, and Priests]]
+- [[Bible Study 15 - The Promise of a Son]]
+- [[Bible Study 16 - Hagar]]
 - [[Bible Study 40 - Abraham]]
 - [[Bible Study 50 - Exodus]]
 - [[Bible Study 60 - Post Sini story]]

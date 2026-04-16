@@ -18,6 +18,8 @@
 - "Hardening heart" is part of Egypt's theology.
 	- lighter than a feather, get to go into the after life
 	- Harder, consumed by demon goddess ammon
+- 15.22
+	- Wilderness of Shur, link to [[Genesis 16.1-16.16]] Hagar fleeing oppression from Sarah, and God finds her near a stream.
 
 ## Conclusions:
 - 

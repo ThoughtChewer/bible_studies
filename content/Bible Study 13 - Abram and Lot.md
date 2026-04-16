@@ -13,8 +13,8 @@
 - Question: What is the cause of the strife between Abram and Lot?
 	- They have too much stuff.
 - Question: What are the two events that led to this moment?
-	- Abram didn't leave his family behind like God commanded in [[Genesis 11.27-12.9]]
-	- Abram went down to Egypt and schemed and became wealthy in [[Genesis 12.10-12.20]]
+	- Abram didn't leave his family behind like God commanded in [[Genesis 11.27-12.3]]
+	- Abram went down to Egypt and schemed and became wealthy in [[Genesis 12.4-12.20]]
 - Question: Looking at verses 10 and 11, what can you glean about Lot?
 	- He sees land that looks desirable to him because it looks like both Eden and Egypt.
 		- Egypt is similar to Babylon in that it inverts Gods creation. 

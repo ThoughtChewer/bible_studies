@@ -44,7 +44,7 @@
 - Question: Who survives the flood?
 	- The people who allied with Abram in his "ark", Mamre, Eshcol, and Aner.
 	- All 3 of them are Canaanites who did not get wiped out with the rest of the Canaanites because they joined Abram in God's temple.
-	- The blessing of [[Genesis 11.27-12.9|Genesis 12]] is already happening where people on earth are being blessed through Abram.
+	- The blessing of [[Genesis 11.27-12.3|Genesis 12]] is already happening where people on earth are being blessed through Abram.
 		- Not only were they saved, but they also gained spoils of war from their victory.
 - Question: Why does Abram leave the safety of his "ark" to go after the 4 kings? 
 	- He leaves to rescue people. 
@@ -67,7 +67,7 @@
 			- gives freely vs "give me" and gifts with strings attached
 - Question: Has Abram changed?
 	- Yes!
-	- Instead of putting the vulnerable at risk to save himself like he did in [[Genesis 12.10-12.20]], he does the opposite by leaving the safety of the ark and rescuing Lot.
+	- Instead of putting the vulnerable at risk to save himself like he did in [[Genesis 12.4-12.20]], he does the opposite by leaving the safety of the ark and rescuing Lot.
 	- He learned his lesson about ill-gotten gains in Egypt and refused the possessions of Sodom.
 ## Conclusions:
 - Just because the story doesn't explicitly say that God did something, doesn't mean that God isn't working.
