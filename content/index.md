@@ -28,7 +28,6 @@ title: Bible Study Series
 - [[Bible Study 21 - Abraham does it again]]
 - [[Bible Study 22 - Isaac is Born]]
 - [[Bible Study 23 - Offering of Isaac]]
-- [[Bible Study 40 - Abraham]]
 - [[Bible Study 50 - Exodus]]
 - [[Bible Study 60 - Post Sini story]]
 - [[Bible Study 70 - Kings and David]]
