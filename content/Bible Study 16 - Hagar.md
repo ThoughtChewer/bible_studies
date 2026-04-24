@@ -39,11 +39,20 @@
 	- Instead of trusting God she takes matters in her own hands to create a solution.
 		- This has ended in tragedy each time.
 	- Just like Abram did to her in Egypt, Sarai's plan took advantage of a vulnerable person that she had power over to achieve her goal.
+- question: Who is Hagar?
+	- This is beyond my skill level to really verify #todo , but Hagar is potentially is a word play on "the foreigner". This seems to be a widely accepted idea.
+		- [Sojourner](https://www.blueletterbible.org/lexicon/h1616/nasb20/wlc/0-1/) (גָּר) + [the](https://www.blueletterbible.org/resources/grammars/hebrew/simplified-hebrew/definite-article.cfm) (הַ)  = [Hagar](https://www.blueletterbible.org/lexicon/h1904/nasb20/wlc/0-1/) (הָגָר)
+			- Sojourner = a temporary inhabitant, a newcomer lacking inherited rights, aka foreigner.
+	- There is no mention of any family or heritage for her. She is just an Egyptian slave.
+	- When she flees Abram and Sarai, she functionally becomes a widow.
+	- If you've read the bible before the phrase "the alien, the orphan, and the widow" might ring a bell.
 - Question: How does Hagar respond?
-- a
-- a
-- a
-- a
+	- Sarai became 'insignificant in her sight'
+		- You could probably make some reasonable assumptions about the value of women related to being able to produce children in the ancient world.
+	- If you wanted to look it up to get a clearer meaning its the word [qālal](https://www.blueletterbible.org/lexicon/h7043/nasb20/wlc/0-1/)
+		- It seems like a multipurpose word, but it is mostly translated as curse. Also used in [[Genesis 11.27-12.3|Gen 12.3]]: "And the one who curses you I will curse."
+		- But Hagar isn't cursed. She is blessed instead? Feels very similar to Cain. Why?
+			- Ishmael isn't the chosen son, but is still Abram's kid. So he still gets the blessing.
 - Question: What role does Abram play in this story?
 	- He is mostly passive, doing whatever Sarai wants. 
 		- Just like Adam was in the garden.
@@ -54,42 +63,25 @@
 	- Adam was held responsible even though Eve gave him the fruit in [[Genesis 3.1-3.24]]. He was right there and didn't stop her in the same way that Abram didn't stop this whole thing.
 	- The only time we've seen someone taking multiple wives previously was Lemech from [[Genesis 4.1-4.26]] who used them not like God intended, as a unified pair, but as something to collect.
 	- In [[Genesis 6.1-9.17]], there was that weird passage about spiritual beings seeing and taking women, which is directly followed by God seeing wickedness on the earth.
-	- Cain built a city for his salvation that led to the oppression of others.
-	- Noah used the vulnerable Sarai to protect himself when he went down to Egypt in [[Genesis 12.4-12.20]].
+	- Abram used the vulnerable Sarai to protect himself when he went down to Egypt in [[Genesis 12.4-12.20]].
 	- Abram just had a conversation with God in [[Genesis 15.1-15.21]] about not having a son and his heir would be someone born into his house. God responded by saying that his heir would be from his body.
 		- While not directly stated that it would come from Sarai, God viewed them as one. Ref [[Genesis 2.4-2.25|Genesis 2.24]] Abram should have known that God was going to use Sarai.
 	- All of these were really bad.
 	- Once again, Hebrew authors don't tell you directly. If you really want to know you have to think about it and reference other stories that they link to through the imagery.
-- a
-- a
-- a
-- a
-- Question: Who is Hagar?
-	- This is beyond my skill level to really verify #todo , but Hagar is potentially is a word play on "the foreigner". This seems to be a widely accepted idea.
-		- [Sojourner](https://www.blueletterbible.org/lexicon/h1616/nasb20/wlc/0-1/) (גָּר) + [the](https://www.blueletterbible.org/resources/grammars/hebrew/simplified-hebrew/definite-article.cfm) (הַ)  = [Hagar](https://www.blueletterbible.org/lexicon/h1904/nasb20/wlc/0-1/) (הָגָר)
-			- Sojourner = a temporary inhabitant, a newcomer lacking inherited rights, aka foreigner.
-	- There is no mention of any family or heritage for her. She is just an Egyptian slave.
-	- When she flees Abram and Sarai, she functionally becomes a widow.
-	- If you've read the bible before the phrase "the alien, the orphan, and the widow" might ring a bell.
-- Hagar curses Sarai
-	- insignificant = [qālal](https://www.blueletterbible.org/lexicon/h7043/nasb20/wlc/0-1/)
-		- Ref [[Genesis 11.27-12.3|Genesis 12.3]]: "The one who curses you I will curse"
-	- But Hagar isn't cursed. She is blessed instead? Feels very similar to Cain. Why?
-		- Ishmael isn't the chosen son, but is still Abram's kid. So he still gets the blessing.
-- 
-
 ## Conclusions:
-- 
-- Even with the covenant and God's promises, Abram is struggling with how the promise is going to be fulfilled. Clearly the normal way isn't working. So Sarai comes up with a plan that is within their power to do, but not how God wants them to act, and Abram doesn't object.
+- Even with the covenant and God's promises, Abram and Sarai are struggling with how the promise is going to be fulfilled. Clearly the normal way isn't working. So Sarai comes up with a solution that is within her power to control. This was a normal thing from that time[^1], but it's not how God wants them to act, and Abram doesn't object.
 - 
 
 ### Questions for the future:
 1. If you haven't read the bible before, why is an alien, an orphan, and a widow important?
-2. How is Abram held accountable by God for his actions with Hagar?
-3. 
+2. Are there any other consequences for Hagar's actions (similar to the delayed ones we saw with Abram)?
+3. How is Abram held accountable by God for his actions with Hagar?
 
 ### Practical things to talk through with the learner:
+- This passage highlighted how interconnected the bible is by importing the meaning of so many passages into this one. The study series is going to try to remind you and highlight core passages referenced, but you're going to need a system that helps you keep track of everything as you learn to do this outside the study series.
 - You will find lots of things when reading the bible that seems important, but you don't know how. Such as, there is a certain irony in Abram being promised that his descendants would become foreigners in Egypt where they would be oppressed for 400 years right before he oppresses his Egyptian slave named 'the foreigner' or like in 16.13 where Hagar makes a comment about seeing God. It is ok not to understand everything. The bible was written to give you a lifetime of learning. Take a note of it and spend some time pondering thoughts like this on a long walk. #todo this note probably should start in genesis 6.1-2
 - Sarai has been trying for years to have a kid, and it hasn't happened. How do you navigate situations like this where things just aren't working?
 	- Sarai and Abram still had to have sex to have a kid, so God didn't want them to do nothing, but he also had a different plan and timeline in mind.
 	- Frequently God doesn't tell people most, if any, of what the plan is. He just asks us to trust him, like he did with Abram in [[Genesis 15.1-15.21]].
+
+[^1]: [Cultural norms of that time from biblehub.com](https://biblehub.com/q/Cultural_norms_in_Abram_s_Genesis_16_6_choice.htm#:~:text=Slave%2DConcubinage%20as,was%20culturally%20conventional)
