@@ -68,9 +68,16 @@
 		- While not directly stated that it would come from Sarai, God viewed them as one. Ref [[Genesis 2.4-2.25|Genesis 2.24]] Abram should have known that God was going to use Sarai.
 	- All of these were really bad.
 	- Once again, Hebrew authors don't tell you directly. If you really want to know you have to think about it and reference other stories that they link to through the imagery.
+- Question: God tells Hagar to return to her oppressors instead of going to Egypt and blessing her there. Why?
+	- #todo clean up
+	- Egypt = bad
+	- Probably more likely to have a better life with Abram than Egypt as an escaped slave 'widow'.
 ## Conclusions:
 - Even with the covenant and God's promises, Abram and Sarai are struggling with how the promise is going to be fulfilled. Clearly the normal way isn't working. So Sarai comes up with a solution that is within her power to control. This was a normal thing from that time[^1], but it's not how God wants them to act, and Abram doesn't object.
-- 
+- God's chosen is once again oppressing vulnerable people and not trusting that God will provide. Then the oppressed person turns around and does the same to the oppressor. God is supposed to curse Hagar, but he blesses her instead. 
+	- Though, we previously learned that God doesn't stop people from experiencing the consequences of their actions, and he is patient in his justice.
+	- #todo clean up, might need to add a question instead of having it all in conclusion. Want to highlight God's character.
+- #todo God blessing non-chosen people too
 
 ### Questions for the future:
 1. If you haven't read the bible before, why is an alien, an orphan, and a widow important?

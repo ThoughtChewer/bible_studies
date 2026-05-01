@@ -112,6 +112,7 @@
 			- Serpents are frequently special mythical creatures in [[Near Eastern Stories]]. For example, in Egypt, the sun god Ra goes into the underworld each night and has to defeat Apophis, the great chaos serpent, to return.[^3]
 	- They are important to understand because they are used frequently in the biblical story to convey dense meaning through imagery as discussed in [[Bible Study Appendix A - Jewish Content in the Bible]]. Additionally, they are signposts for cyclical patterns in the biblical story, and it will help the reader to understand the larger context if they can pickup on those queues.
 	- Just because someone becomes an architype, that does not mean that those events didn't happen. Nor does it decrease the significance of the individual event. It just means that it is pulled into a larger context.
+- #todo Eve's name changed to her reproductive function
 ## Conclusions:
 - This is an appropriate place to attempt to summarize the biblical story thus far.
 	- God created the universe and delegated authority to different groups to rule parts of his creation.
