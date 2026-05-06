@@ -44,3 +44,4 @@
 ### Practical things to talk through with the learner:
 - 
 
+#todo In bible studies 11-23 I need to add a section that talks about how the cycle has changed?

@@ -1,5 +1,6 @@
 ## Goals:
 - Read through [[Genesis 19.1-19.38]]
+- Answer question 1 from [[Bible Study 13 - Abram and Lot#Questions for the future|Bible Study 13]]
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
@@ -9,6 +10,13 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
+- Question: Do you see the imagery?
+	- asdf
+- a
+- a
+- a
+- Contrast between this story and Abraham in beg of 18
+	- p.162 bottom in pent as narr
 
 ## Conclusions:
 - 

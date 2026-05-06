@@ -19,6 +19,12 @@
 			- [flood](https://www.blueletterbible.org/lexicon/h3999/nasb20/wlc/0-1/) is mabûl (מַבּוּל)
 	- "flesh" being "[cut off](https://www.blueletterbible.org/lexicon/h3772/nasb20/wlc/0-1/)" Ref: [[Genesis 6.1-9.17|Gen 9.11]] and [[Genesis 17.1-17.27|Gen 17.14]]
 	- Renaming after rebellion
+- Question: How has the story changed?
+	- Previous floods were against the non-chosen groups. This one was against God's chosen.
+	- Purpose changed slightly. This wasn't to wash away something evil, but instead to recreate something to align it more with God. #todo rephrase?
+- Question: How does this compare to the previous covenant conversation God had with Abraham?
+	- It feels very much the same. God speaks --> Abraham responds with faithfulness --> God speaks --> Abraham acts, but has doubts
+		- 17.17 he laughs
 - Question: Why circumcision?
 	- Abram just used his penis to do some not so great things, so it is fitting that the cleansing of the flood would involve that.
 	- The blessing of having kids that Abram and Sarai have been struggling to believe in is also related.
