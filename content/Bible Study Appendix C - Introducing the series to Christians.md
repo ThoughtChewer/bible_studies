@@ -4,7 +4,9 @@ Something familiar must become foreign before it can become new. If you have bee
 ![[angels.png]]
 Above are two pictures of angels, but you didn't need me to tell you that. You could just glance at the picture and know that they are angels because of what they look like. There is just one problem... Angels in the bible don't have wings. 
 
-Ok, that's a cool factoid, but does it really matter? It's not like how I envision an angel has any barring on my relationship with God. You're right, how you envision an angel doesn't really matter. But look at the images above again, what happens if you remove the wings? The one on the left goes from being an angel to being a woman with a dress blowing in the wind, and on the right goes from cupid to a kid with a toy bow and arrow. So the identity of the being you are looking at completely changes.
+Ok, that's a cool factoid, but does it really matter? It's not like how I envision an angel has any barring on my relationship with God. You're right, how you envision an angel doesn't really matter. But look at the images below, what happens if you remove the wings? The one on the left goes from being an angel to being a woman with a dress blowing in the wind, and on the right goes from cupid to a kid with a toy bow and arrow. So the identity of the being you are looking at completely changes.
+
+![[Pasted image 20260510160806.png]]
 
 This is was the very problem the Jews had when Jesus arrived. They thought the messiah would look like the one on the left, and they got the one on the right... So not only did they miss him, they killed him.
 
