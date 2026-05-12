@@ -10,6 +10,8 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
+- Question: Do you see familiar imagery?
+	- #todo will need to reshape rest of the study to fit the mold...?
 - Question: What is the cause of the strife between Abram and Lot?
 	- They have too much stuff.
 - Question: What are the two events that led to this moment?

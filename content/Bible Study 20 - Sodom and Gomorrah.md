@@ -1,6 +1,7 @@
 ## Goals:
 - Read through [[Genesis 19.1-19.38]]
 - Answer question 1 from [[Bible Study 13 - Abram and Lot#Questions for the future|Bible Study 13]]
+- Answer question 1 from [[Bible Study 19 - Abraham's Appeal#Questions for the future|Bible Study 19]]
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
@@ -11,7 +12,7 @@
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
 - Question: Do you see the imagery?
-	- asdf
+	- 
 - a
 - a
 - a

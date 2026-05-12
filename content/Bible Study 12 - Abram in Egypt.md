@@ -31,7 +31,7 @@
 	- Egypt is a descendant of Ham ([[Genesis 10.1-10.32|Genesis 10.6]] [Mizraim](https://www.blueletterbible.org/lexicon/h4714/nasb20/wlc/0-1/) means Egypt in Hebrew).
 	- We just left Babylon, also a descendant of Ham, to go to the promised land.
 	- Abram doesn't trust that God is going to provide for him, so he takes matters into his own hands.
-- Question: Do you see the garden symbols?
+- Question: Do you see familiar imagery?
 	- Something that is visibly desirable
 	- Union of a man and woman
 	- "Wise" choices that miss the point

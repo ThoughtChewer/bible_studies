@@ -12,6 +12,8 @@
 - Start with the beginning of exodus ?
 	- Maybe baby moses ark to show continuing cycle / linkage?
 - Moses return + plagues + exodus
+	- https://bibleproject.com/guides/redemption/
+		- Link to Jesus stories
 - Mt. Sini covenant
 - exodus cycle
 	- https://youtu.be/dYPlBq8ELvA?si=3fJ8ON7q1B6nlWsV

@@ -9,7 +9,7 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
-- Question: Do you see the Eden imagery?
+- Question: Do you see the familiar imagery?
 	- God showing man his creation.
 	- Man in deep sleep.
 	- Living creature being cut open.
@@ -29,6 +29,9 @@
 - This is the second covenant that God has made with his chosen people, and the second time that he has taken responsibility for both parties.
 	- God knows that, like in this passage, sometimes Abram is great and he gets it and sometimes he doesn't.
 	- Abram is supposed to walk through the middle of the dead animals as part of covenant procedure, but he can't because he is asleep. So God is the only one who does, and in doing so takes on the responsibility of both parties. God is going to participate in the suffering caused by the faithlessness of the people he has made the agreement with.
+- Question: What was the purpose of the covenant?
+	- #todo 
+	- Ref [[Genesis 11.27-12.3|12.3]], to have Abraham behave in a way that represents God to partner with him so that God can bless all people.
 - Question: What does this tell you about God?
 	- He is caring and will meet people where they are at and address their concerns.
 	- He is committed to carrying out his plan though the chosen people.

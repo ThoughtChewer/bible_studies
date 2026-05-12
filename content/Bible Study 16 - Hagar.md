@@ -7,7 +7,7 @@
 	- This should be another rebellion story.
 - Read verse 1.
 - Question: What do you expect to happen in this story?
-	- **(This isn't about telling them what is going to happen, this is about letting the learner reflect on what they have learned and connect dots to develop expectations going into a story with the little clues the Author gives them.)**
+	- **(This isn't about telling them what is going to happen, this is about letting the learner reflect on what they have learned and connect dots to develop expectations going into a story with the little clues the Author gives them.)** 
 	- Hagar is one of the Egyptian slaves Abram got in Egypt. Last time we talked about something Abram got from that incident, it ended really poorly for him.
 	- We just had the covenant between God and Abram about his seed, and now Sarai is concerned with her lack of offspring.
 	- Combine previous two: Probably going to be some tragedy involving Hagar that results in kids who are not the chosen ones from this story.

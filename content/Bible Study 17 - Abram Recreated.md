@@ -10,7 +10,7 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
-- Question: Do you see the imagery?
+- Question: Do you see familiar imagery?
 	- Righteous person walking with God
 	- God establishing a covenant with his chosen that has a physical sign attached to it
 	- The removal of something with a remnant remaining

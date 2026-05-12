@@ -12,7 +12,7 @@
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
 - Facilitator: This can be a tricky one to understand what is happening. Start with things that should be familiar and work your way from there. Here is a line of questions that should help identify components of the story. Adjust based on what they notice after reading the story.
-	- Question: Do you see any familiar symbols?
+	- Question: Do you see familiar imagery?
 		- In verses 18-20, Blessings and wine should be familiar imagery of post flood stories 
 			- ref: [[Genesis 6.1-9.17|Genesis 9.1-21]]
 			- So you know that the flood comes before that.

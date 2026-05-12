@@ -9,7 +9,7 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
-- Question: Do you see the imagery?
+- Question: Do you see familiar imagery?
 	- God and his chosen together by sacred trees at the entrance to a tent
 	- Taking and giving food
 	- Blessings (of children)

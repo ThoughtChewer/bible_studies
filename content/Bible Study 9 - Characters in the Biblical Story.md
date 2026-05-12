@@ -1,7 +1,6 @@
 ## Goals:
 - Read through [[Genesis 10.1-10.32]]
 
-
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
 	- Based on the cycle we're expecting to see some chosen, not chosen, and cosmic rebellion.
