@@ -1,6 +1,8 @@
 ## Goals:
 - Read through [[Genesis 21.1-21.21]]
 - Answer question 3 from [[Bible Study 16 - Hagar6#Questions for the future|Bible Study 16]] (again)
+- Answer question 1 from [[Bible Study 20 - Sodom and Gomorrah#Questions for the future|Bible Study 19]]
+- 
 
 ## Setup
 - Question: Based on the previous passage, what do you expect to read in this passage?
@@ -10,6 +12,7 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
+- Question: Do you see familiar imagery?
 
 ## Conclusions:
 - 

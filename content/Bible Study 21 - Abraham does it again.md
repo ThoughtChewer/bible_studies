@@ -9,6 +9,7 @@
 	- Just let them talk.
 - Question: What are interesting things that you noticed?
 	- Just let them talk.
+- Question: Do you see familiar imagery?
 
 ## Conclusions:
 - 
